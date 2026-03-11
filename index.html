@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pré-Coaching Force Athlétique</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d0d0d;
+      --card:      #181818;
+      --border:    #2a2a2a;
+      --orange:    #FF5500;
+      --gold:      #FFD700;
+      --text:      #F5F5F5;
+      --muted:     #888;
+      --input-bg:  #111;
+      --radius:    12px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── HERO ─────────────────────────────────────────── */
+    .hero {
+      position: relative;
+      text-align: center;
+      padding: 80px 20px 60px;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 70% 55% at 50% 0%, rgba(255,85,0,.28) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .badge {
+      display: inline-block;
+      background: rgba(255,85,0,.15);
+      border: 1px solid var(--orange);
+      color: var(--orange);
+      font-size: .75rem;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      padding: 6px 16px;
+      border-radius: 99px;
+      margin-bottom: 22px;
+    }
+
+    .hero h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3rem, 10vw, 7rem);
+      line-height: .95;
+      letter-spacing: .03em;
+      text-transform: uppercase;
+    }
+    .hero h1 span {
+      background: linear-gradient(90deg, var(--orange), var(--gold));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero p {
+      margin: 24px auto 0;
+      max-width: 540px;
+      color: #aaa;
+      font-size: 1.05rem;
+      line-height: 1.65;
+    }
+
+    /* ── STEPS ────────────────────────────────────────── */
+    .steps {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 0 20px 60px;
+    }
+    .step {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 24px;
+      max-width: 220px;
+      text-align: center;
+      flex: 1 1 180px;
+    }
+    .step-num {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2.4rem;
+      background: linear-gradient(90deg, var(--orange), var(--gold));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1;
+      margin-bottom: 8px;
+    }
+    .step p { font-size: .85rem; color: #aaa; line-height: 1.5; }
+
+    /* ── FORM CARD ────────────────────────────────────── */
+    .form-wrap {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 20px 80px;
+    }
+    .form-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 40px 36px;
+    }
+    .form-card h2 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2rem;
+      letter-spacing: .05em;
+      margin-bottom: 6px;
+    }
+    .form-card .subtitle {
+      color: var(--muted);
+      font-size: .9rem;
+      margin-bottom: 32px;
+    }
+
+    .row { display: grid; gap: 16px; margin-bottom: 16px; }
+    .row.two { grid-template-columns: 1fr 1fr; }
+    @media (max-width: 520px) { .row.two { grid-template-columns: 1fr; } }
+
+    .field { display: flex; flex-direction: column; gap: 6px; }
+    label { font-size: .8rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: #aaa; }
+    label .req { color: var(--orange); margin-left: 2px; }
+
+    input, select, textarea {
+      background: var(--input-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: .95rem;
+      padding: 12px 14px;
+      width: 100%;
+      outline: none;
+      transition: border-color .2s;
+    }
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--orange);
+    }
+    select option { background: #1a1a1a; }
+    textarea { resize: vertical; min-height: 90px; }
+
+    .sbdGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+
+    /* ── SUBMIT ───────────────────────────────────────── */
+    .submit-btn {
+      display: block;
+      width: 100%;
+      margin-top: 28px;
+      padding: 16px;
+      background: linear-gradient(90deg, var(--orange), #ff8c00);
+      border: none;
+      border-radius: 10px;
+      color: #fff;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: .1em;
+      cursor: pointer;
+      transition: opacity .2s, transform .1s;
+    }
+    .submit-btn:hover { opacity: .9; transform: translateY(-1px); }
+    .submit-btn:active { transform: translateY(0); }
+    .submit-btn:disabled { opacity: .5; cursor: not-allowed; }
+
+    /* ── SUCCESS ──────────────────────────────────────── */
+    .success {
+      display: none;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .success-icon {
+      font-size: 3rem;
+      margin-bottom: 16px;
+    }
+    .success h3 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2rem;
+      background: linear-gradient(90deg, var(--orange), var(--gold));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .success p { color: #aaa; margin-top: 10px; font-size: .95rem; }
+
+    /* ── FOOTER ───────────────────────────────────────── */
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #444;
+      font-size: .78rem;
+    }
+
+    /* ── ERROR ────────────────────────────────────────── */
+    .error-msg {
+      display: none;
+      background: rgba(255,60,60,.1);
+      border: 1px solid rgba(255,60,60,.4);
+      color: #ff6b6b;
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: .85rem;
+      margin-top: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── HERO ──────────────────────────────────────────── -->
+<section class="hero">
+  <div class="badge">Candidature Gratuite</div>
+  <h1>Prêt à <span>tout donner</span><br>sur la barre ?</h1>
+  <p>Remplis ce formulaire en 2 minutes. Je l'étudie personnellement et te recontacte pour voir si on peut travailler ensemble.</p>
+</section>
+
+<!-- ── STEPS ─────────────────────────────────────────── -->
+<div class="steps">
+  <div class="step">
+    <div class="step-num">01</div>
+    <p>Tu remplis le formulaire ci-dessous</p>
+  </div>
+  <div class="step">
+    <div class="step-num">02</div>
+    <p>J'étudie ton profil sous 48 h</p>
+  </div>
+  <div class="step">
+    <div class="step-num">03</div>
+    <p>On s'appelle pour construire ton plan</p>
+  </div>
+</div>
+
+<!-- ── FORM ───────────────────────────────────────────── -->
+<div class="form-wrap">
+  <div class="form-card">
+    <h2>Formulaire de Pré-Coaching</h2>
+    <p class="subtitle">Toutes les infos sont confidentielles · Réponse sous 48 h</p>
+
+    <form id="preCoachingForm" novalidate>
+
+      <!-- Identité -->
+      <div class="row two">
+        <div class="field">
+          <label>Prénom <span class="req">*</span></label>
+          <input type="text" name="prenom" placeholder="Ton prénom" required />
+        </div>
+        <div class="field">
+          <label>Email <span class="req">*</span></label>
+          <input type="email" name="email" placeholder="ton@email.com" required />
+        </div>
+      </div>
+
+      <!-- Instagram -->
+      <div class="row">
+        <div class="field">
+          <label>Profil Instagram <span class="req">*</span></label>
+          <input type="text" name="instagram" placeholder="@ton_pseudo" required />
+        </div>
+      </div>
+
+      <!-- Niveau -->
+      <div class="row">
+        <div class="field">
+          <label>Niveau en force athlétique <span class="req">*</span></label>
+          <select name="niveau" required>
+            <option value="" disabled selected>-- Choisis ton niveau --</option>
+            <option value="Débutant (< 1 an de pratique)">Débutant (moins d'1 an de pratique)</option>
+            <option value="Intermédiaire (1–3 ans)">Intermédiaire (1–3 ans)</option>
+            <option value="Avancé (3+ ans)">Avancé (3 ans et plus)</option>
+            <option value="Compétiteur">Compétiteur</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Objectif -->
+      <div class="row">
+        <div class="field">
+          <label>Objectif principal <span class="req">*</span></label>
+          <select name="objectif" required>
+            <option value="" disabled selected>-- Choisis ton objectif --</option>
+            <option value="Augmenter mes totaux SBD">Augmenter mes totaux SBD</option>
+            <option value="Préparer une compétition">Préparer une compétition</option>
+            <option value="Construire une base solide">Construire une base solide</option>
+            <option value="Prise de masse + force">Prise de masse + force</option>
+            <option value="Corriger ma technique">Corriger ma technique</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- 1RM SBD -->
+      <div class="row">
+        <div class="field">
+          <label>1 RM estimés (en kg)</label>
+          <div class="sbdGrid">
+            <input type="number" name="squat_1rm" placeholder="Squat" min="0" />
+            <input type="number" name="bench_1rm" placeholder="Bench" min="0" />
+            <input type="number" name="deadlift_1rm" placeholder="Deadlift" min="0" />
+          </div>
+        </div>
+      </div>
+
+      <!-- Poids / Taille -->
+      <div class="row two">
+        <div class="field">
+          <label>Poids (kg)</label>
+          <input type="number" name="poids" placeholder="ex : 82" min="30" max="300" />
+        </div>
+        <div class="field">
+          <label>Taille (cm)</label>
+          <input type="number" name="taille" placeholder="ex : 178" min="140" max="230" />
+        </div>
+      </div>
+
+      <!-- Message libre -->
+      <div class="row">
+        <div class="field">
+          <label>Quelque chose à ajouter ?</label>
+          <textarea name="message" placeholder="Historique, blessures, contraintes, motivations..."></textarea>
+        </div>
+      </div>
+
+      <button type="submit" class="submit-btn" id="submitBtn">Envoyer ma candidature →</button>
+      <div class="error-msg" id="errorMsg">Une erreur est survenue. Réessaie ou contacte-moi directement sur Instagram.</div>
+    </form>
+
+    <!-- Message de succès -->
+    <div class="success" id="successMsg">
+      <div class="success-icon">🔥</div>
+      <h3>Candidature reçue !</h3>
+      <p>Je reviens vers toi sous 48 h.<br>En attendant, suis mon Instagram pour du contenu technique.</p>
+    </div>
+  </div>
+</div>
+
+<footer>© 2025 · Coaching Force Athlétique · Tous droits réservés</footer>
+
+<script>
+  // ─────────────────────────────────────────────────────────────
+  //  CONFIGURATION
+  //  1. Remplace FORMSPREE_ID par ton ID Formspree (ex : xpwzabcd)
+  //     Crée ton formulaire gratuit sur https://formspree.io
+  //  2. Remplace APPS_SCRIPT_URL par l'URL de ton Google Apps Script
+  //     (voir le fichier README.md pour la procédure)
+  // ─────────────────────────────────────────────────────────────
+  const FORMSPREE_URL    = 'https://formspree.io/f/FORMSPREE_ID';   // ← à remplacer
+  const APPS_SCRIPT_URL  = 'APPS_SCRIPT_URL';                        // ← à remplacer
+
+  const form       = document.getElementById('preCoachingForm');
+  const submitBtn  = document.getElementById('submitBtn');
+  const successMsg = document.getElementById('successMsg');
+  const errorMsg   = document.getElementById('errorMsg');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    errorMsg.style.display = 'none';
+
+    // Validation basique
+    const required = form.querySelectorAll('[required]');
+    let valid = true;
+    required.forEach(el => {
+      if (!el.value.trim()) { el.style.borderColor = '#ff4444'; valid = false; }
+      else { el.style.borderColor = ''; }
+    });
+    if (!valid) return;
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Envoi en cours…';
+
+    const data = Object.fromEntries(new FormData(form));
+
+    try {
+      // 1. Envoi vers Formspree (email)
+      const fsRes = await fetch(FORMSPREE_URL, {
+        method: 'POST',
+        headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+
+      // 2. Envoi vers Google Apps Script (Sheets)
+      if (APPS_SCRIPT_URL !== 'APPS_SCRIPT_URL') {
+        await fetch(APPS_SCRIPT_URL, {
+          method: 'POST',
+          mode: 'no-cors',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data),
+        });
+      }
+
+      if (fsRes.ok || FORMSPREE_URL.includes('FORMSPREE_ID')) {
+        form.style.display = 'none';
+        successMsg.style.display = 'block';
+      } else {
+        throw new Error('Formspree error');
+      }
+    } catch {
+      errorMsg.style.display = 'block';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Envoyer ma candidature →';
+    }
+  });
+</script>
+</body>
+</html>

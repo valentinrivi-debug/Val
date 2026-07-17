@@ -17,11 +17,23 @@ structure.
 
 ---
 
+## Règle absolue : toujours clarifier avant d'écrire
+
+**Ne devine jamais silencieusement.** Avant de produire quoi que ce soit, pose les
+questions nécessaires pour que le résultat soit le plus complet et le plus adapté
+possible — même si un format ou un sujet semble évident. Ça inclut systématiquement :
+- Le format (si non précisé).
+- Le sujet exact si vague ou incomplet.
+- Toute contrainte spécifique implicite dans la demande (durée visée, hook visuel vs
+  verbal, CTA particulier, ton à ajuster, élément à garder d'un script précédent).
+Pose ces questions directement dans le chat (ou via l'outil de question si plusieurs
+options distinctes existent). Ne lance la génération qu'une fois les réponses reçues.
+
 ## Étape 0 — Identifier le format
 
-Quatre formats sont disponibles, avec des mécaniques et des sorties différentes. **Si
-le format n'est pas précisé dans la demande, demande-le avant de continuer** (ou
-déduis-le du sujet et annonce ton choix) :
+Quatre formats sont disponibles, avec des mécaniques et des sorties différentes.
+**Demande toujours le format avant de continuer**, même s'il semble déductible du
+sujet — confirme plutôt que de supposer :
 
 | Format | Principe | Quand l'utiliser |
 |---|---|---|
@@ -94,7 +106,9 @@ vs progressivement, un crayon/bâton poussé droit vs de travers (transmission d
 charge dans l'axe).
 
 **Verbal pur** si le sujet est une histoire perso, un chiffre choc, ou une preuve
-sociale — le visuel y est déjà natif.
+sociale — le visuel y est déjà natif. **Verbal pur aussi sur demande explicite** (ex.
+pour A/B tester visuel vs verbal sur un même type de sujet) : dans ce cas, propose les
+3 hooks en pur verbal, aiguisés au maximum via les 6 règles, sans chercher de dispositif.
 
 ## Filtre anti-scolaire
 

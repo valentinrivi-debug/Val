@@ -44,106 +44,165 @@ Ne devine jamais silencieusement. Avant de générer, demande si besoin :
    individualisée" seul → toujours "si tu stagnes depuis des mois sans structure,
    voilà ce qui va changer."
 
-## Les 17 templates
+## Les 17 templates (gabarits fidèles au document source)
 
-*(S1, S2... = slide 1, slide 2... — chaque story est calibrée pour tenir sur
-plusieurs slides courtes, pas une seule story surchargée)*
+*(S1, S2... = slide 1, slide 2... Ces gabarits sont volontairement bruts, avec leurs
+crochets `[...]` d'origine — c'est à l'étape de génération que tu les remplis avec le
+profil de Val (`.claude/context/story-profil.md`) et le contexte donné. Ne simplifie
+jamais un gabarit en un seul paragraphe : respecte le découpage slide par slide, il
+est pensé pour le rythme de lecture d'une story. `MOT-CLÉ` = toujours **COACHING**
+pour Val, sauf demande contraire.)*
 
 ### Templates de vente
 
-**1. La transformation client** — le parcours d'un élève : point de départ, ce que
-Val a changé, résultat. Preuve que la méthode marche.
-`S1: [Prénom] est venu me voir en [mois], il galérait avec [douleur] et voulait juste
-[objectif]. S2: contexte (durée du problème, tentatives ratées). S3: je lui ai fait
-lâcher [ancienne approche] pour passer sur [méthode Val]. S4: en [délai], [résultat
-chiffré]. S5: si t'es coincé dans la même boucle, je peux régler ça. S6: réponds
-COACHING et je t'envoie le lien.`
+**1. Template 1 : La transformation client**
+*Le parcours d'un élève : d'où il partait, ce que tu as changé, le résultat. Prouve
+que ta méthode marche.*
+```
+S1 : [Prénom] est venu me voir en [mois/année], il galérait avec [problème] et
+voulait juste [résultat] 👉
+S2 : Pour te situer : il [action typique] depuis [durée], [galère 1], [galère 2],
+[galère 3].
+S3 : Je lui ai fait lâcher [l'approche qui ne marchait pas] pour passer sur [ta
+méthode]… 👀
+S4 : Et en [délai], il [résultat] 😌 [preuve/capture]
+S5 : Si t'es coincé dans la même boucle ([action] sans jamais [résultat]), je peux
+régler ça.
+S6 : Réponds « MOT-CLÉ » et je t'envoie le lien vers [offre] ✨
+```
 
-**2. Le témoignage flash (1 slide)** — une capture de win + CTA. Imparable pour la preuve.
-`S1: Recevoir des messages comme ça, c'est... [capture DM élève]. Réponds COACHING et
-je t'envoie exactement ce qu'il a utilisé.`
+**2. Template 2 : Le témoignage flash (1 slide)**
+*Une capture de win + un CTA. Imparable pour la preuve.*
+```
+S1 : Recevoir des messages comme ça, c'est… 🥹 [capture]
+Réponds « MOT-CLÉ » et je t'envoie exactement ce qu'il/elle a utilisé.
+```
 
-**3. L'erreur qui coûte cher** — tu pointes une erreur, ton offre devient la sortie.
-`S1: Si tu [pratique inefficace : t'entraînes sans structure/ignore la douleur/copies
-un programme trouvé en ligne]... tu perds [temps/kg/progression]. S2: réponds COACHING
-et je te montre comment [résultat].`
+**3. Template 3 : L'erreur qui coûte cher**
+*Tu pointes une erreur, tu positionnes ton offre comme la sortie.*
+```
+S1 : Si tu [approche inefficace]… tu perds [perte 1], [perte 2], [perte 3] 😕👉
+S2 : Réponds « MOT-CLÉ » et je te montre comment [résultat].
+```
 
-**4. Coulisses + offre** — tu montres ta journée, tu glisses l'offre naturellement.
-`S1: J'ai passé la matinée à [corriger des programmations/faire un bilan visio], là je
-file [action]. S2: les messages tombés ces derniers jours : [1-2 captures]. S3: si
-[stagner/t'entraîner avec douleur] te semble galère en ce moment, je te couvre.
-Réponds COACHING.`
+**4. Template 4 : Coulisses + offre**
+*Tu montres ta journée, tu glisses ton offre naturellement.*
+```
+S1 : J'ai passé [la matinée] à [action], là je [prochaine action] 🥵
+S2 : Mais d'abord, les messages tombés ces derniers jours : [1-2 captures]
+S3 : Si [résultat] te semble galère en ce moment, je te couvre. Réponds « MOT-CLÉ »
+```
 
-**5. « Imagine si… »** — tu relies le plus gros désir à l'offre.
-`S1: Imagine si quelqu'un ajustait ta prog chaque semaine, corrigeait ta technique
-avant que la douleur s'installe, et que t'avais juste à suivre. S2: c'est littéralement
-ce que je fais. Suivi mensuel, retours sous 24h, programmation individualisée. S3:
-réponds COACHING et je t'envoie le lien.`
+**5. Template 5 : « Imagine si… »**
+*Tu relies le plus gros désir à ton offre.*
+```
+S1 : Imagine si quelqu'un [gérait la partie galère], te disait quoi [faire], et que
+t'avais juste à [action simple]… 😏
+S2 : Bah c'est littéralement ce que je fais 🥵 J'ai passé [durée] à construire [offre]
+qui te donne [bénéfices] pour enlever le flou sur [résultat].
+S3 : Réponds « MOT-CLÉ » et je t'envoie le lien !
+```
 
-**6. La petite claque (1 slide)** — direct, sans détour.
-`S1: Me dis pas que tu sais pas comment structurer ta prog quand j'ai littéralement
-un suivi qui fait ça pour toi chaque semaine. Réponds juste COACHING.`
+**6. Template 6 : La petite claque (1 slide)**
+```
+S1 : Me dis pas que tu sais pas [quoi faire] quand j'ai littéralement créé [offre]
+qui te donne [la solution]… Réponds juste « MOT-CLÉ »
+```
 
-**7. La motivation** — un résultat perso récent relié à l'action du viewer.
-`S1: Je viens de [accompagner un élève en compétition / le voir passer un total
-record]... c'est le genre de truc qui me rappelle pourquoi je fais ça. En quelques mois
-ta prépa pourrait ressembler à ça. Arrête d'attendre "la bonne période" et fais-le
-pour toi. S2: réponds COACHING si tu veux les étapes exactes.`
+**7. Template 7 : La motivation**
+```
+S1 : Je viens de [gros résultat]… c'est le genre de [liberté/vie] dont je rêvais. En
+[délai], ta [vie] pourrait changer si tu te mettais à fond sur [sujet]. Arrête de [ce
+qui te freine] et fais-le pour toi 🤝
+S2 : Réponds « MOT-CLÉ » si tu veux les étapes exactes.
+```
 
-**8. Bonjour + pitch (story longue)** — plusieurs slides, le pitch complet.
-`S1: Salut la team, j'ai passé la matinée à [action], là je [prochaine action].
-S2: beaucoup me demandent comment progresser sur le total sans se blesser, je te
-partage tout. S3: le plus simple, c'est [principe clé — ex. structure + gestion de la
-douleur en amont, pas en réaction]. S4: t'as pas besoin de [ce qu'on croit
-nécessaire]. T'as juste à [étape 1, 2, 3]. S5: c'est comme ça que [élève] a
-[résultat]. S6: si tu débutes et que t'es prêt, le suivi te couvre. Réponds COACHING.`
+**8. Template 8 : Bonjour + pitch (story longue)**
+```
+S1 : Salut la team 🥵 J'ai passé [la matinée] à [action], là je [prochaine action] !
+[sticker sondage]
+S2 : Sur un autre sujet : beaucoup me demandent comment [résultat]… je te partage
+tout 👉
+S3 : Le moyen le plus simple, c'est [ce que tu enseignes] 🥵 [explique en 1 phrase]
+S4 : Et le plus fou, c'est que t'as pas besoin de [ce qu'on croit nécessaire]. T'as
+juste à : [étape 1], [étape 2], [étape 3]
+S5 : C'est comme ça que [moi/mon élève] [résultat]. [preuve]
+S6 : Donc si tu débutes sur [sujet] et que t'es prêt, [offre] te couvre. Réponds
+« MOT-CLÉ », on se voit dedans !
+```
 
-**9. L'urgence (1 slide)** — place limitée ou deadline réelle uniquement (jamais une
-fausse urgence).
-`S1: Je [tâche banale], mais je voulais vite te dire qu'il reste [X places] dans le
-suivi ce mois-ci. Réponds COACHING et je t'envoie le détail.`
+**9. Template 9 : L'urgence (1 slide)**
+*Place limitée ou deadline réelle uniquement — jamais une fausse urgence.*
+```
+Version A : Je [tâche banale], mais je voulais vite te rappeler que [offre limitée] !
+👀 [détail] Réponds « MOT-CLÉ ».
+Version B (sticker compte à rebours) : Si t'as envie de [transfo]… c'est maintenant
+👀 T'as jusqu'à [deadline] pour choper [offre]. On se voit dedans !
+```
 
-**10. « Fatigué de… ? »** — tu nommes la douleur avant la solution.
-`S1: Si t'en as marre de stagner sans savoir pourquoi... S2: et que tu veux la
-méthode que j'utilise pour faire progresser mes élèves sur leur total sans les
-blesser... S3: faut que tu sois dans le suivi. C'est comme ça que [élève] a
-[résultat]. S4: réponds COACHING et je t'envoie le lien.`
+**10. Template 10 : « Fatigué de… ? »**
+```
+S1 : Si t'en as marre de [galère précise]…
+S2 : Et que tu veux la [méthode] que j'ai utilisée pour [résultat]… 👉
+S3 : Faut que tu sois dans [offre] 🫶 C'est comme ça que [mon élève] a [résultat] 🥹
+[capture]
+S4 : Réponds « MOT-CLÉ » et je t'envoie le lien 🥵
+```
 
 ### Templates de lien (nurturing — ne vendent pas directement)
 
-**11. Le Q/R** — `S1: Petit Q/R, pose-moi tes questions sur la prépa, la technique
-SBD, la gestion des douleurs [sticker Questions]. Slides suivantes : question reçue +
-réponse, glisse l'offre quand c'est pertinent.`
+**11. Template 11 : Le Q/R**
+```
+S1 : Bon [jour] ! Petit Q/R 🥳 pose-moi tes questions sur [sujet] 👇 [sticker
+Questions]
+```
+*Slides suivantes : tu affiches la question reçue + ta réponse, et quand c'est
+pertinent tu glisses ton offre ou ta ressource gratuite comme solution.*
 
-**12. Coulisses / teaser** — `S1: J'ai passé la matinée sur [nouvelle ressource/
-process] qui va t'aider à [résultat] ! Dernières retouches [sondage]. S2 (une fois en
-ligne): comme promis, c'est dispo, lien en bio/DM.`
+**12. Template 12 : Coulisses / teaser**
+```
+S1 : J'ai passé [la matinée] sur [projet/ressource] qui va t'aider à [résultat] !
+Dernières retouches et c'est à toi ✨ [sondage]
+S2 (une fois en ligne) : Comme promis, c'est dispo ici 👇 [lien/reel]
+```
 
-**13. Le sondage** — fait voter l'audience, chaque tap = engagement.
-`Ex: "Ta plus grosse galère en ce moment ?" (Stagnation vs Douleurs). "Tu commences ta
-séance par quoi ?" (Échauffement structuré vs direct sur la barre).`
+**13. Template 13 : Le sondage**
+*Fais voter ton audience. Chaque tap = de l'engagement, donc plus de portée.*
+*Ex. FA : « Ta plus grosse galère en ce moment ? » (Stagnation vs Douleurs). « Tu
+commences ta séance par quoi ? » (Échauffement structuré vs direct sur la barre).*
 
-**14. Le feedback** — `S1: Aide-moi à t'aider ! Tu galères le plus sur quoi côté
-technique/structure/gestion des douleurs ? [sticker Questions]`
+**14. Template 14 : Le feedback**
+```
+S1 : Aide-moi à t'aider ! Tu galères le plus sur quoi côté [sujet] ? 👇 [sticker
+Questions]
+```
 
-**15. La présentation** (à mettre en "À la Une") — `S1: Plein de nouvelles têtes cette
-semaine, on fait connaissance. S2: Moi c'est Val, ce compte t'aide à progresser sur ton
-total SBD même si tu débutes ou que tu galères avec les douleurs. S3: je pratique
-depuis 5 ans, je coache depuis 3 ans, je viens de la musculation avant de m'orienter
-vers le power. S4: depuis, j'ai [résultats/nombre d'athlètes accompagnés]. S5: le
-moyen le plus simple de progresser sans se blesser, c'est une structure + un vrai
-suivi. S6: si tu débutes et que t'es prêt, le suivi te couvre. Réponds COACHING.
-S7: fun facts sur Val.`
+**15. Template 15 : La présentation** (à mettre en « À la Une »)
+```
+S1 : Plein de nouvelles têtes cette semaine, on fait connaissance 👋
+S2 : Bienvenue dans mon coin d'internet, moi c'est [prénom] ! Ce compte t'aide à
+[résultat], même en étant [audience] 🥵
+S3 : En [mois/année] je me suis lancé dans [ce que tu fais] parce que [ton pourquoi].
+S4 : Depuis, j'ai [résultats] 🔥
+S5 : Le moyen le plus simple d'[atteindre le résultat], c'est [ta solution] 🥳
+S6 : Si tu débutes et que t'es prêt, [ressource/offre] te couvre 💗 Réponds
+« MOT-CLÉ »
+S7 : Quelques fun facts 😆 : [fait 1], [fait 2], [fait 3]
+```
 
-**16. Le déclic** — `S1: Je viens de [résultat/observation]. C'est ça, la puissance
-d'une vraie structure. Arrête de [naviguer à vue] et [construis un cadre]. S2: te fais
-pas avoir : j'ai vu trop d'athlètes stagner en pensant que "s'entraîner plus" suffit.
-Ce qui change tout : une programmation qui s'ajuste à la fatigue et à la douleur, pas
-l'inverse.`
+**16. Template 16 : Le déclic**
+```
+S1 : Je viens de [gros résultat]… c'est ça, la puissance de [sujet]. Arrête de
+[frein] et [action].
+S2 : Te fais pas avoir : j'ai passé [période] bloqué à [point bas]. Ce qui a changé ?
+[ce que tu as modifié].
+S3 : Mon meilleur conseil ? [conseil]. On m'a dit « [conseil bidon] » et ça m'a
+laissé [galère]. À la place : [ce que tu appliques].
+```
 
-**17. Le quotidien** — pas de règle fixe. Une séance, une correction technique en
-direct, une galère du jour, un moment de compétition. Plus c'est vrai, plus le lien
-est fort.
+**17. Template 17 : Le quotidien**
+*Pas de règle. Un café, ton setup, un trajet, une galère du jour. Les humains se
+connectent à des humains. Plus tu es vrai, plus le lien est fort.*
 
 ## Format de sortie
 

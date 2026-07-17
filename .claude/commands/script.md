@@ -1,10 +1,10 @@
 ---
-description: Génère un script de Reel Instagram (30-45s) pour Force Athlétique, à partir d'un sujet, en s'appuyant sur la psychologie des hooks, le cycle H-R-R et des frameworks de storytelling.
+description: Génère du contenu Instagram pour Force Athlétique (Talking Head Éducatif, One Shot, Vlog, ou Yap) à partir d'un sujet, en s'appuyant sur la psychologie des hooks et les frameworks propres à chaque format.
 ---
 
-# /script — Générateur de script Reel Instagram (Force Athlétique)
+# /script — Générateur de contenu Instagram (Force Athlétique)
 
-Sujet demandé par l'utilisateur : $ARGUMENTS
+Demande de l'utilisateur : $ARGUMENTS
 
 ## Contexte du compte
 
@@ -15,37 +15,55 @@ agressif, jamais corporate. Audience : pratiquants qui veulent progresser série
 en force (1RM, total, prépa compétition) mais stagnent, se blessent, ou n'ont pas de
 structure.
 
-## Ce que tu dois faire
+---
 
-1. **Si aucun sujet n'est donné**, demande à l'utilisateur de quoi doit parler le Reel.
-2. **Diagnostic avant d'écrire** (obligatoire, 1-2 phrases chacun) :
+## Étape 0 — Identifier le format
+
+Quatre formats sont disponibles, avec des mécaniques et des sorties différentes. **Si
+le format n'est pas précisé dans la demande, demande-le avant de continuer** (ou
+déduis-le du sujet et annonce ton choix) :
+
+| Format | Principe | Quand l'utiliser |
+|---|---|---|
+| **A. Talking Head Éducatif** | Scripté mot à mot, face caméra, UNE valeur concrète livrée | Erreur technique, mythe, tuto, framework — le cœur de la crédibilité coach |
+| **B. One Shot** | 1 plan, texte natif par-dessus, zéro voix, zéro script | Format le plus rapide, brise-glace, contraste image/texte |
+| **C. Vlog** | B-roll capté sur le vif, immersion dans la journée/mission | Montrer le quotidien de coach, construire la connexion et la confiance |
+| **D. Yap** | Face caméra, capté brut, avis/observation/récit | Opinion tranchée, positionnement, construire la personnalité |
+
+**Repère rapide** : si le sujet est une correction technique précise (comme les scripts
+squat/bench/deadlift déjà écrits) → **Format A**. Si c'est une observation drôle ou un
+contraste du quotidien → **Format B**. Si c'est "montre ta journée/séance/coaching" →
+**Format C**. Si c'est un avis tranché sur l'entraînement ou le milieu → **Format D**.
+
+---
+---
+
+# FORMAT A — TALKING HEAD ÉDUCATIF
+
+## Process
+
+1. **Diagnostic avant d'écrire** (1-2 phrases chacun) :
    - Quelle croyance dominante de la cible ce contenu attaque-t-il ?
    - Quelle erreur d'analyse fréquente ça corrige ?
    - Quelle perte invisible (temps, kg au total, blessure évitable) ça révèle ?
    - Quel point de friction émotionnel ça touche (peur de se blesser, ego, plateau,
      frustration de ne pas progresser) ?
-3. **Propose 3 hooks**, en priorisant un hook visuel/analogie (voir section "Priorité :
-   hook visuel / analogie") quand le sujet est une erreur technique ou un concept
-   abstrait, et en complétant avec des hooks purement verbaux mais aiguisés.
-   Chacun doit activer au moins 3 des 6 règles psychologiques. Ne propose jamais un
-   hook qui informe, explique ou rassure dès la première phrase. Passe chaque hook
-   au filtre anti-scolaire avant de le retenir.
-4. **Choisis la structure du corps** : storytelling (si le sujet est une histoire perso/
-   client) ou éducatif (si le sujet est une erreur, un mythe, un tuto). Utilise les
-   frameworks ci-dessous.
-5. **Écris le script complet**, calibré 30-45 secondes, en appliquant le cycle H-R-R
-   et la règle du changement de beat toutes les 3-5 secondes.
-6. **Passe la checklist de validation finale** avant de livrer.
-7. **Livre le script prêt à tourner** au format de sortie plus bas.
-
----
+2. **Choisis UNE des 7 familles** (voir plus bas) — la famille dominante. Un hook
+   d'une famille peut porter le corps d'une autre, mais décide-le consciemment.
+3. **Propose 3 hooks**, en priorisant un hook visuel/analogie quand le sujet est une
+   erreur technique ou un concept abstrait. Chacun doit activer au moins 3 des 6
+   règles psychologiques. Passe chaque hook au filtre anti-scolaire.
+4. **Écris le script complet**, calibré 30-45s, cycle H-R-R, règles transverses
+   (large → moyen → niche, connecteurs, densité ~130 mots/45s).
+5. **Passe la checklist de validation finale**.
+6. **Livre au format de sortie** plus bas.
 
 ## La psychologie du hook (0-3 secondes)
 
 Le cerveau du viewer prend une micro-décision toutes les 0,5 à 1 seconde : rester ou
 scroller. Un hook ne doit **jamais informer, rassurer ou expliquer trop tôt** — ça
-ferme la boucle mentale avant qu'elle s'ouvre, et le cerveau scrolle. Un bon hook
-retire une certitude, suggère une perte, et retarde la solution.
+ferme la boucle mentale avant qu'elle s'ouvre. Un bon hook retire une certitude,
+suggère une perte, et retarde la solution.
 
 **Les 6 règles — un hook doit en activer au moins 3, idéalement 4+ :**
 
@@ -58,262 +76,475 @@ retire une certitude, suggère une perte, et retarde la solution.
 4. **Promettre une vérité inconfortable** : dire ce que le cerveau ne veut pas
    entendre mais sent déjà.
 5. **Ouvrir une boucle mentale claire** : "ce n'est pas X... c'est Y" — le cerveau
-   attend la suite, ne referme pas la boucle tout de suite.
-6. **Être citationnable** : phrase courte, rythmée, mémorisable, presque évidente
-   après coup.
-
-**Erreur à ne jamais commettre** : un hook qui liste ("3 erreurs sur ton squat") ou
-qui rassure ("c'est normal de stagner parfois") tue la rétention. Préfère toujours la
-version qui menace une croyance ou suggère une perte.
-
----
+   attend la suite.
+6. **Être citationnable** : phrase courte, rythmée, mémorisable.
 
 ## Priorité : hook visuel / analogie
 
-Par défaut, **propose toujours en premier un hook visuel ou une analogie avec un
-objet/geste simple**, avant un hook purement parlé, dès que le sujet est une erreur
-technique ou un concept abstrait (coordination, tension, timing). Raison : la décision
-de rester ou scroller se prend en moins d'une seconde, avant que le cerveau ait fini
-de traiter une phrase. Un objet incongru (un élastique dans une vidéo de deadlift)
-crée une boucle mentale immédiate, sans dépendre du langage — c'est un raccourci
-qui protège mécaniquement contre le piège "scolaire" (expliquer/informer trop tôt).
+Propose toujours en premier un hook visuel ou une analogie avec un objet/geste
+simple dès que le sujet est une erreur technique ou un concept abstrait (coordination,
+tension, timing). Un objet incongru (un élastique dans une vidéo de deadlift) crée une
+boucle mentale immédiate, sans dépendre du langage. L'objet doit d'abord sembler
+n'avoir aucun rapport — ne jamais résoudre la tension dans le hook lui-même.
 
-Le visuel n'est pas magique en soi : un hook visuel qui explique le lien tout de suite
-("cet élastique va t'expliquer pourquoi ta barre dérive") retombe dans le même piège
-scolaire, juste avec un accessoire en plus. La règle reste la même : ne jamais
-résoudre la tension dans le hook — l'objet doit d'abord sembler n'avoir aucun rapport.
+**Dispositifs réutilisables** : élastique tendu (tension progressive vs à-coup), tir à
+la corde (déséquilibre), balance à plateaux, chaise/table posée avec un pied en retard
+(bascule), deux mains portant un plateau chargé (coordination), ressort comprimé vite
+vs progressivement, un crayon/bâton poussé droit vs de travers (transmission d'une
+charge dans l'axe).
 
-**Dispositifs visuels réutilisables** (objet du quotidien qui illustre une mécanique
-technique) :
-- Élastique tendu (tension progressive et symétrique vs à-coup)
-- Tir à la corde / corde tirée d'un seul côté (déséquilibre, asymétrie)
-- Balance à plateaux (équilibre qui bascule si un côté est en retard)
-- Chaise/table qu'on pose avec un pied en retard (bascule, instabilité)
-- Deux mains qui portent un plateau chargé (coordination, timing)
-- Ressort qu'on comprime trop vite vs progressivement (accumulation de tension,
-  relâchement brutal)
-
-**Quand privilégier le verbal pur** : si le sujet est une histoire perso/storytelling, un
-chiffre choc, ou une preuve sociale (transformation, résultat client) — le visuel y est
-déjà natif (avant/après, chrono, vidéo d'entraînement), pas besoin d'un objet
-métaphorique en plus.
-
----
+**Verbal pur** si le sujet est une histoire perso, un chiffre choc, ou une preuve
+sociale — le visuel y est déjà natif.
 
 ## Filtre anti-scolaire
 
-Avant de retenir un hook (visuel ou verbal), vérifie qu'il ne tombe dans aucun de ces
-pièges — ce sont les patterns qui font stagner les vues :
-
 - ❌ **Intro pédagogique** : "Aujourd'hui je vais te parler de...", "Dans cette vidéo tu
-  vas apprendre...", "On va voir ensemble comment..."
-- ❌ **Liste annoncée d'entrée** : "Voici 3 erreurs sur ton squat", "5 astuces pour..."
-  — ça informe le cerveau du cadre complet, il n'a plus de raison de rester.
-- ❌ **Rassurance immédiate** : "C'est normal de stagner parfois", "Pas de panique
-  si..." — zéro tension, zéro urgence mentale, le cerveau se détend et scrolle.
-- ❌ **Explication complète en une phrase** : si le hook répond déjà à la question
-  qu'il pose, il n'y a plus de boucle mentale.
-- ❌ **Ton "professeur"** : vocabulaire scolaire, ton neutre/informatif, absence de
-  "tu" ou d'implication directe du viewer.
+  vas apprendre..."
+- ❌ **Liste annoncée d'entrée** : "Voici 3 erreurs sur ton squat" — informe le cadre
+  complet, plus de raison de rester.
+- ❌ **Rassurance immédiate** : "C'est normal de stagner parfois" — zéro tension.
+- ❌ **Explication complète en une phrase** : boucle mentale fermée avant d'ouvrir.
+- ❌ **Ton "professeur"** : vocabulaire neutre, absence de "tu".
 
-✅ **Test rapide** : lis le hook seul, sans le reste du script. Si un inconnu comprend
-tout de suite de quoi parle la vidéo et pense "ok, pas besoin de regarder la suite" —
-il est trop scolaire, réécris-le.
-
----
+✅ **Test rapide** : lis le hook seul. Si un inconnu comprend tout de suite de quoi
+parle la vidéo et pense "pas besoin de regarder la suite" — réécris-le.
 
 ## Bibliothèque de hooks Force Athlétique / Powerlifting
 
-*(hooks prêts à adapter — piocher, combiner, ou s'en inspirer pour en créer de
-nouveaux sur le même modèle)*
+*(piocher, combiner, ou s'en inspirer)*
 
-### Menace une croyance / vérité inconfortable
+**Menace une croyance / vérité inconfortable**
 - « Si tu t'entraînes toujours plus dur, c'est probablement pour ça que tu bloques. »
 - « Être plus fort ne te rend pas forcément meilleur. »
-- « Le cardio n'est pas ce qui te limite le plus sur ton total. »
 - « T'entraîner plus n'est pas t'entraîner mieux. »
 - « Ton vrai niveau apparaît quand tu es fatigué. »
-- « Les meilleurs savent quand ralentir. »
 - « La récupération commence avant l'entraînement. »
 - « Plus tu forces, plus tu compenses. »
-- « Le corps encaisse... jusqu'à ce qu'il n'encaisse plus. »
 - « La fatigue mal gérée ressemble à un manque de niveau. »
+- « Ce n'est pas ta force qui fait dériver la barre. »
 
-### Suggère une perte / implique le viewer
+**Suggère une perte / implique le viewer**
 - « Si tu tests ton 1RM chaque semaine, tu risques une blessure sérieuse. »
-- « Avant de tester ton max chaque semaine, [continuer sur la conséquence]. »
 - « Ce que tu fais après une séance ratée compte plus que la séance ratée. »
 - « Ton plan fonctionne... jusqu'au moment où il te fatigue. »
 
-### Comparaison / métrique choc (bibliothèque structurée)
+**Comparaison / métrique choc**
 - « Voici la différence entre une technique de squat qui protège ton dos et une qui
   va te blesser. »
-- « Squat low bar versus high bar pour maximiser ton 1RM. »
-- « Youtube gratuit vs coach en ligne à 150€/mois vs prépa compét à 500€/mois. »
 - « Ce programme dure 12 semaines et ajoute 20kg à ton total. »
 - « Voici mon squat avant 12 semaines de travail technique, voici après. »
 
-### Formules génériques (structure « et si / voici / marre de » — à remplir)
-- « Et si tu pouvais soulever 200 kg sans jamais souffrir de douleurs articulaires ? »
-- « Marre de stagner dans tes performances de squat ? »
-- « Voici les 5 questions les plus fréquentes que j'entends de la part des débutants
-  en powerlifting qui essaient d'augmenter leurs PR. »
-- « La plus grosse erreur que les powerlifters font et qui les empêche de gagner en
-  force est de négliger la récupération. »
-- « Si tu as du mal à augmenter ton bench, tu dois ARRÊTER de ne faire que des
-  séries lourdes, car cela fatigue excessivement tes articulations. »
-- « S'entraîner plus dur est la clé, n'est-ce pas ? NON. En fait, cela peut causer de
-  graves blessures si tu ne planifies pas correctement ta récupération. »
-- « En [X mois], je suis passé de [douleurs aux épaules] à [PR en snatch/squat/
-  bench], et voici comment. »
-- « Devine lequel de ces types d'entraînement est en réalité la cause de ta fatigue
-  musculaire chronique ? »
-- « Savais-tu qu'à chaque fois que tu négliges ton échauffement, tu augmentes tes
-  risques de blessure ? »
-- « 5 signes que tu es un DÉBUTANT en powerlifting et non un EXPERT. »
-- « La meilleure façon de progresser en force en [année] n'est PAS en faisant des
-  max-out chaque semaine comme tout le monde le pense. »
-- « Pourquoi la plupart des powerlifters n'atteignent jamais leurs PR et comment
-  éviter leurs erreurs. »
-
-### Rehook au milieu de la vidéo (relancer l'attention à ~15-20s)
+**Rehook au milieu de la vidéo (~15-20s)**
 - « Mais voici le vrai problème que personne ne te dit... »
 - « Et le pire ? Je pensais que tout le monde faisait ça. »
 - « La plupart des gens se trompent complètement sur ce point... »
 
-**Règle d'or** : bannir toute intro ("Salut", "Aujourd'hui je vais te parler de").
-Entrer directement dans le hook.
+**Règle d'or** : bannir toute intro. Entrer directement dans le hook.
 
----
+## Cycle H-R-R + les 5 actes
 
-## Structure du script — cycle H-R-R
+1. **HOOK (0-3s)** : arrêter le scroll, <12 mots.
+2. **RETAIN (3s-35/40s)** : "curiosity gap" non comblé avant la fin. Changement de
+   "beat" toutes les 3-5s. Chaque phrase = conséquence logique de la précédente.
+   Une seule idée par vidéo.
+3. **REWARD (fin)** : résolution à la hauteur de la tension créée.
 
-Le viewer alloue son attention en 3 temps :
+Les 5 actes : **Hook** (tension immédiate) → **Contexte** (background minimal) →
+**Conflit/friction** (l'erreur, la douleur — les conflits internes frappent plus fort
+que les obstacles externes) → **Turning point** (le déclic, contraste avant/après) →
+**Résolution** (résultat + takeaway + CTA soft).
 
-1. **HOOK (0-3s)** : arrêter le scroll. Moins de 12 mots idéalement.
-2. **RETAIN (3s à ~35-40s)** : maintenir un "curiosity gap" — ne pas combler la
-   question ouverte par le hook avant la fin. Changement de "beat" (angle, ton,
-   info) toutes les 3-5 secondes. Chaque phrase doit être la conséquence logique de
-   la précédente ("j'ai fait X → donc Y → ce qui m'a forcé à Z"). Une seule idée par
-   vidéo — si tu en as trois, coupe.
-3. **REWARD (dernières secondes)** : la résolution doit être à la hauteur de la
-   tension créée, sinon le viewer se sent floué et ne reviendra pas.
+**Calibrage** : ~2,5 mots/s → 30s ≈ 75 mots, 45s ≈ 110-115 mots.
 
-**Les 5 actes** (à adapter selon le type de contenu) :
-1. **Hook** — phrase forte, tension immédiate.
-2. **Contexte** — juste assez de background pour comprendre l'enjeu (pas d'intro
-   inutile, penser en "beats" pas en paragraphes).
-3. **Conflit / friction** — le défi, l'erreur, la douleur. Les conflits internes (peur,
-   doute, frustration) frappent plus fort que les obstacles externes.
-4. **Turning point** — le déclic, l'erreur identifiée, ou la solution. C'est le moment
-   "aha" — contraste avant/après.
-5. **Résolution** — le résultat concret + takeaway simple et mémorable + CTA soft.
+## Les 7 familles de contenu éducatif
 
-**Calibrage 30-45s** : ~2,5 mots/seconde → 30s ≈ 75 mots, 45s ≈ 110-115 mots.
-Phrases courtes, ton parlé naturel ("je" et "mon"), zéro jargon marketing.
+Choisis UNE famille dominante. Gabarits condensés, à remplir avec le sujet :
 
----
+**1. Common Mistake** — ta niche fait tous la même erreur, tu la nommes et la corriges.
+Gabarit : Hook (l'erreur, en question-piège ou affirmation) → 1 à 3 erreurs nommées
+précisément → Pivot "voici comment les corriger" avec un fix nommé par erreur → CTA.
+*Ex. FA : « Si je te demande de dérack, ta hanche part où ? » → l'erreur (hanche pas
+sous la barre) → le fix nommé ("l'alignement vertical") → CTA.*
 
-## Frameworks de storytelling (si le contenu raconte une histoire)
+**2. Myths vs Facts** — ta niche croit un truc dur comme fer, tu le démontes avec des
+faits/un mécanisme. Gabarit : Hook (contre-exemple ou affirmation qui choque) → Thèse
+(reframe) → Garde-fou (ce qui reste vrai, les fondamentaux non négociables) → Cas par
+cas (ce qui doit s'adapter) → Punchline → Disclaimer débutant si besoin.
+*Ex. FA : « Le squat profond n'est pas dangereux pour tout le monde » → contre-exemples
+(morphologies différentes) → garde-fou (gainage, contrôle du bas du dos toujours
+non-négociables) → punchline "la technique est faite pour ton corps, pas l'inverse".*
 
-Choisis le framework le plus adapté au sujet, condense-le à l'essentiel pour tenir en
-30-45s (généralement 4-5 beats max, pas les 6 étapes complètes) :
+**3. Step-by-step Tutorial** — process découpé en étapes activables, la famille la plus
+enregistrée (save). Gabarit : Hook (promesse claire, "voici comment X") → 3-5 étapes,
+chacune = le geste concret + le "code d'initié" (détail que seul un coach connaît) +
+l'erreur du débutant à éviter → règle sacrée en dernier → CTA.
+*Ex. FA : « Voici comment dérack comme quelqu'un qui a fait 500 dérack » → étape 1
+(position hanche) → étape 2 (respiration/bracing) → étape 3 (le pas arrière) → règle
+sacrée (jamais plus de 2 pas) → CTA.*
 
-- **Parcours du héros** : Intro (problème) → Point de bascule (douleur) → Tentatives
-  ratées → Climax (la solution trouvée) → Résultat → CTA.
-- **Le déclic (Breakthrough)** : Problème répété malgré les tentatives → Le déclic
-  (prise de conscience ou résultat bluffant) → La solution appliquée + résultat.
-- **Homme dans le trou (Man in a hole)** : Zone de confort (pas mal, mais un manque)
-  → Déclencheur → Remise en question → Reconstruction → Nouvel état.
-- **Du défi à la victoire** : Le doute ("on m'a dit que je n'y arriverais jamais") → La
-  lutte initiale → Le tournant → La solution (méthode en étapes) → Transformation →
-  Casser le mythe ("ce n'est pas difficile, tu fais juste les mauvaises choses").
-- **Le grand objectif / rêve** : Présenter le rêve → Le moment où t'as commencé à
-  agir → Update sur l'avancement → CTA pour suivre.
-- **À propos de moi** : Intro (point de départ normal) → Conflit (élément
-  déclencheur) → Épiphanie → Changement → Purpose (la mission derrière le
-  coaching).
-- **La leçon** : Revers choc en accroche → Douleurs / tentatives ratées → Résolution
-  (résultat obtenu) → Leçon apprise en une phrase.
+**4. Framework / Formule / Acronyme** — tu compresses ton expertise dans un système
+NOMMÉ (3 lettres, 3 mots), mémorisable et qui t'appartient. Gabarit : Hook de
+compression ("X années d'expérience en 60 secondes") → annonce de la règle/acronyme
+→ chaque lettre/mot expliqué avec 1-2 exemples concrets → bonus de profondeur → boucle
+vers la description/un DM.
+*Ex. FA : un acronyme pour la technique de squat (ex. "P-A-C" : Placement, Air,
+Contrôle) expliqué en 3 temps.*
 
----
+**5. Quick Tips / Hacks** — une astuce applicable dans l'heure, sans matériel. Gabarit :
+Punchline-image ("Ton [X] c'est [image forte]") → reframe d'une expression connue → le
+hack complet en UNE phrase exécutable → ce que ça produit (dans l'ordre) → promesse
+chiffrée précise + morale.
+*Ex. FA : « Ta séance d'échauffement, c'est une chambre de torture inutile. » → reframe
+→ hack (2 mouvements ciblés à charge progressive) → ce que ça évite (blessure,
+fatigue prématurée) → promesse précise.*
 
-## Structures éducatives (si le contenu n'est pas une histoire)
+**6. À faire / à ne pas faire** — contraste bonne vs mauvaise pratique, le plus rapide
+à comprendre, parfois même sans voix (split-screen). Gabarit : soit un moule de
+montage pur (split screen geste raté vs propre, même cadrage, texte minimal ❌/✅), soit
+scripté : "à ne pas faire" incarné précisément → principe (pourquoi c'est raté) →
+"à faire" (3-5 alternatives concrètes) → permission d'imperfection → question finale.
+*Ex. FA : split-screen dérack hanche décalée vs alignée, zéro voix, juste ❌/✅.*
 
-- **Erreur courante** : Hook (l'erreur) → Pourquoi c'est une erreur (debrief
-  logique/technique) → Solution concrète → CTA.
-- **Mythe** : Hook → Énoncer le mythe → Le démonter avec des faits → Ce qu'il faut
-  faire à la place → CTA.
-- **Système étape par étape** : Hook → Annoncer le nombre d'étapes → Étape 1, 2, 3
-  (1-2 phrases chacune, concrètes et activables) → CTA.
-- **Astuce/hack** : Hook → L'astuce en une phrase → Comment l'appliquer
-  concrètement → CTA.
-- **Autorité** : Hook → Preuve sociale (résultat perso ou client, chiffré) → Comment
-  ça a été fait → CTA.
+**7. La comparaison** — tu compares deux options/niveaux/époques pour éclairer un
+écart (pas un jugement bien/mal, contrairement au do/don't). Gabarit : Hook mapping
+("Voici N choses que tu retrouves dans [ton monde]") → chaque paire "si tu [connais X],
+tu vas [découvrir Y équivalent]" + 2-3 marqueurs concrets → fermeture d'expertise.
+Déclinaisons : niveau (débutant vs pro sur le même geste), budget, époque, résultat.
+*Ex. FA : « Ce que fait un débutant vs ce que fait un athlète sur la même semaine
+d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose l'intensité).*
 
----
+## Règles transverses (toutes familles)
 
-## Checklist de validation finale (à vérifier avant de livrer)
+- **Large → moyen → niche** : le hook est intéressant pour le plus grand nombre, tu
+  descends vers le détail d'expert. Jamais l'inverse.
+- **Le premier job du hook** : amener à la deuxième phrase, pas vendre toute la vidéo.
+- **Connecteurs** : mais / alors / cependant / donc — entre les phrases, ça transforme
+  une liste de faits en fil qu'on ne lâche pas.
+- **Zéro intro.** Pas de "salut c'est moi", pas de preuve sociale en ouverture.
+- **Densité** : ~130 mots pour 45s. Élague 30-40% du premier jet.
+- **Un point clair par vidéo.** Sujet trop large → éclate-le en plusieurs Reels.
+- **CTA au bon endroit** : le save se demande AVANT la valeur si la vidéo est une
+  référence ("enregistre pour ta prochaine séance") ; la question d'engagement se pose
+  à la FIN si la vidéo est une opinion ; le détail supérieur va en DESCRIPTION.
+- **Test final** : quand il pose son téléphone, qu'est-ce qu'il lui reste ? Si "rien de
+  concret" — réécris.
 
-- [ ] Le hook fait moins de 12 mots / moins de 3 secondes à l'oral ?
-- [ ] Le hook active au moins 3 des 6 règles psychologiques ?
-- [ ] Le hook a passé le filtre anti-scolaire (aucun des 5 pièges) ?
-- [ ] Un hook visuel/analogie a été envisagé en priorité si le sujet s'y prête ?
-- [ ] Zéro intro inutile ("salut", "aujourd'hui je vais te parler de") ?
-- [ ] Une seule idée centrale dans toute la vidéo ?
-- [ ] Chaque phrase découle logiquement de la précédente (cause → effet) ?
-- [ ] Y a-t-il un rehook (relance de tension) vers le milieu de la vidéo ?
-- [ ] Le conflit/la douleur est spécifique, pas générique ?
-- [ ] La résolution apporte un vrai "aha" à la hauteur de la tension créée ?
-- [ ] Le CTA est relié à une action précise (lien en bio pré-coaching / DM mot-clé) ?
-- [ ] Lu à voix haute : tient en 30-45s sans essoufflement, aucune phrase à couper ?
+## Frameworks de storytelling (si le contenu raconte une histoire perso/client)
 
----
+- **Parcours du héros** : Intro (problème) → Point de bascule → Tentatives ratées →
+  Climax (solution) → Résultat → CTA.
+- **Le déclic (Breakthrough)** : Problème répété → Déclic → Solution appliquée + résultat.
+- **Homme dans le trou** : Zone de confort → Déclencheur → Remise en question →
+  Reconstruction → Nouvel état.
+- **Du défi à la victoire** : Le doute → Lutte initiale → Tournant → Solution en
+  étapes → Transformation → Casser le mythe.
 
-## CTA — options
+## Checklist de validation finale
 
-- **Lien en bio** → candidater au pré-coaching (cohérent avec la landing page).
-- **DM mot-clé** → réponds "FORCE" (ou autre mot-clé) et je t'envoie [ressource/fiche/
-  programme] — capte des leads chauds en message perso, plus engageant qu'un lien
-  froid.
-- **Commente X** → pour booster l'engagement sur du contenu plus educational/série.
+- [ ] Hook < 12 mots / < 3s à l'oral ?
+- [ ] Hook actif ≥ 3 des 6 règles psychologiques ?
+- [ ] Hook passé au filtre anti-scolaire ?
+- [ ] Hook visuel/analogie envisagé en priorité si le sujet s'y prête ?
+- [ ] Famille dominante nommée (parmi les 7) ?
+- [ ] Zéro intro inutile ?
+- [ ] Une seule idée centrale ?
+- [ ] Cause → effet tout du long, connecteurs présents ?
+- [ ] Rehook vers le milieu de la vidéo ?
+- [ ] Résolution à la hauteur de la tension créée ?
+- [ ] CTA relié à une action précise ?
+- [ ] ~130 mots/45s, lu à voix haute sans essoufflement ?
 
----
-
-## Format de sortie attendu
+## Format de sortie — Talking Head
 
 ```
 🎬 SUJET : [sujet]
+📂 FAMILLE : [1 des 7, nommée]
 🩻 DIAGNOSTIC : croyance attaquée / erreur corrigée / perte suggérée / friction émotionnelle
-📂 STRUCTURE : [storytelling (framework) / éducatif (type) / autorité]
 ⏱️ DURÉE CIBLE : [30s / 45s]
 
---- HOOKS (choisis-en un ou teste les 3) ---
-1. [hook — règles activées entre parenthèses]
-2. [hook — règles activées entre parenthèses]
-3. [hook — règles activées entre parenthèses]
+--- HOOKS ---
+1. [hook — règles activées]
+2. [hook — règles activées]
+3. [hook — règles activées]
 
 --- SCRIPT ---
 [0-3s] HOOK : "..."
 [visuel : ...]
-
 [Contexte] "..."
-[visuel : ...]
-
 [Conflit] "..."
-[visuel : ...]
-
-[Rehook ~15-20s, si pertinent] "..."
-
+[Rehook ~15-20s] "..."
 [Turning point] "..."
-[visuel : ...]
-
 [Résolution + CTA] "..."
-[visuel : ...]
 
 --- CHECKLIST ---
-[✅/❌ sur chaque point de la checklist de validation finale]
+[✅/❌ sur chaque point]
 
---- LÉGENDE INSTAGRAM (courte) ---
-[1-2 lignes + emoji cohérent avec le ton du compte]
+--- LÉGENDE INSTAGRAM ---
+[1-2 lignes + emoji]
 ```
+
+---
+---
+
+# FORMAT B — ONE SHOT
+
+## Principe
+
+Un seul plan (2-3 max), un texte natif par-dessus (éditeur TikTok/Insta), pas de
+script vocal, pas de prise de parole. Le format le plus rapide de l'arsenal — aucun
+courage face caméra requis. Le moteur : le **CONTRASTE** entre l'image et le texte.
+
+## Les 4 leviers
+
+- **Autodérision** — tu te moques de toi-même. Imbattable, jamais prétentieux.
+  *Ex. FA : image d'un dérack qui a l'air facile + texte "personne ne sait que j'ai
+  raté ce même poids 3 fois avant de filmer."*
+- **Relatable** — un micro-moment que toute la salle vit → "tellement vrai".
+  *Ex. FA : toi qui vérifies ton reflet dans le miroir de la salle + "ce moment où tu
+  regardes si ton dos est droit alors que tu sais très bien que non."*
+- **Satire / second degré** — tu épingles gentiment un comportement que tout le monde
+  voit sans l'avoir jamais nommé.
+  *Ex. FA : texte qui épingle "les gars qui font du 1/4 de squat avec 200kg pour la
+  story" sur une image neutre de salle.*
+- **Détournement de phrase** — tu prends une phrase commune et tu lui fais dire autre
+  chose. *Ex. FA : "T'es chaud on va à la salle" → détourné vers un truc inattendu.*
+
+## Process (4 étapes)
+
+1. Capture 1-3 clips où il se passe un truc intéressant (toi en séance, en coaching,
+   un dérack, un moment de salle). Dégaine le téléphone plus souvent.
+2. Ajoute la légende **dans l'app native** (style constant d'une vidéo à l'autre).
+3. Ajoute une musique qui colle, sans fin brutale — pas besoin du son trending.
+4. Publie.
+
+## Règles d'or
+
+- Le texte à l'écran **EST** le hook — compris en 0,5 seconde.
+- Le contraste avant tout : pose-toi la question "mon texte contredit-il/surprend-il
+  fort ce qu'on voit ?"
+- Style de légende constant (cohérence de marque).
+- Sur le levier satire, une légende plus longue peut marcher si elle est drôle et juste.
+
+## Format de sortie — One Shot
+
+```
+🎬 SUJET : [sujet]
+🎭 LEVIER : [autodérision / relatable / satire / détournement de phrase]
+
+--- CONCEPT ---
+[description du plan à filmer — 1 phrase]
+
+--- TEXTE À L'ÉCRAN ---
+"[texte natif, le hook]"
+
+--- MUSIQUE ---
+[ambiance/type de son suggéré]
+
+--- POURQUOI ÇA MARCHE ---
+[1 phrase : quel est le contraste exact entre l'image et le texte]
+```
+
+---
+---
+
+# FORMAT C — VLOG
+
+## Principe
+
+Capté sur le vif, en immersion, montré plutôt qu'expliqué, tourné en clips de 1-3s.
+La matière : ton quotidien de coach, ta journée, ta mission. Contrairement au talking
+head (scripté, poli), le vlog est brut et authentique.
+
+## Les 4 familles
+
+- **Raconté** (voix off narrative) — une voix raconte une histoire/un pourquoi
+  par-dessus les images. Le vrai storytelling, la connexion maximale.
+- **B-roll à valeur** — voix off utile sur du b-roll, sans face caméra. *Ex. FA : tu
+  montres tes séances de coaching de la semaine en b-roll, voix off "voici les 3
+  erreurs que je corrige le plus en ce moment chez mes athlètes."*
+- **Esthétique et silencieux** — peu/pas de voix, le texte remplace la voix, monté sur
+  la musique. Deux couches d'info (visuel qui accroche + texte qui dit autre chose) =
+  rétention maximale.
+- **Mission** — un enjeu posé dès la première seconde ("est-ce qu'il va y arriver ?").
+  Structure en 4 temps : l'enjeu → l'avant (état de départ) → le boulot (galères) →
+  l'après (résolution). *Ex. FA : "aujourd'hui mon athlète tente son premier 200kg au
+  squat" → prépa → tentatives → résultat.*
+
+## La compétence n°1 : descriptif vs introspectif
+
+Test phrase par phrase avant de poser la voix off :
+- **Descriptif** : "on peut le deviner à l'écran ?" Si oui, ta voix n'ajoute rien.
+- **Introspectif** : "seul toi peux le dire, seul toi le sais ?" Va vers ton intention,
+  tes craintes, ta perspective — ça, aucune IA ni concurrent ne peut le copier.
+
+*Ex. FA descriptif : "Aujourd'hui je fais coacher un client sur son squat."*
+*Ex. FA introspectif : "Ce client, je le pousse plus loin que les autres parce qu'il
+a peur de se blesser depuis un an — mon travail, c'est de lui redonner confiance
+avant de lui redonner de la charge."*
+
+## Captation
+
+- Caméra toujours en mouvement (jamais de plan fixe).
+- Clips de 5-10s filmés, montés à 1-3s.
+- Plan d'ouverture ET plan de fermeture obligatoires (ex. : pousser la porte de la
+  salle en entrant, ranger la barre en partant).
+- Filme ton hook visuel exprès, en sachant que ce sera lui.
+- Garde TOUS les rushs — banque de b-roll pour la suite.
+
+## Montage
+
+- Clips < 1-2s, vidéo totale 30-40s.
+- Colorimétrie cohérente sur toute la vidéo.
+- Sous-titres si voix off (60% regardent sans le son).
+- Monte SUR la musique, cale les coupes dessus.
+
+## Format de sortie — Vlog
+
+```
+🎬 SUJET : [sujet/occasion]
+📂 FAMILLE : [raconté / b-roll à valeur / esthétique / mission]
+
+--- SHOT LIST ---
+1. [plan d'ouverture]
+2. [plan(s) intermédiaires — ce qu'on montre]
+3. [plan de fermeture]
+
+--- VOIX OFF (si raconté ou b-roll à valeur) ---
+"..." [passée au test descriptif/introspectif — indiquer laquelle a été retenue et pourquoi]
+
+--- TEXTE À L'ÉCRAN (si esthétique) ---
+[mots-clés courts, un par plan]
+
+--- MUSIQUE ---
+[ambiance suggérée]
+
+--- CTA ---
+[lien en bio / DM mot-clé / rien si pur esthétique]
+```
+
+---
+---
+
+# FORMAT D — YAP
+
+## Principe
+
+Face caméra, capté brut (pas scripté mot à mot comme le talking head), un avis, une
+observation ou un récit. C'est la forme la plus directe de personnalité — pas de
+montage complexe, juste toi et ton angle.
+
+## Mindset (à garder en tête, pas à réciter à l'écran)
+
+Deux sources de légitimité suffisent, une seule est nécessaire : **l'expérience**
+(parle au toi d'il y a 1-5 ans) ou **l'étude** (tu redistribues ce que tu as appris des
+meilleurs). Le plaisir se voit à la caméra — s'amuser est la seule façon de tenir dans
+la durée.
+
+## Formats visuels
+
+- **Standard** — assis, face caméra. Le point de départ.
+- **Walking** — en marchant, effet FaceTime spontané. Un cran au-dessus.
+- **Car** — en voiture, ton décontracté "partage de ma journée".
+- **Graphic / Green screen** — visuels/texte en superposition, ~1 visuel toutes les 2s.
+
+## Les 3 frameworks de fond + 2 extensions
+
+- **Strong Take (l'avis tranché)** — tu affirmes que quelque chose est le
+  meilleur/pire et tu le défends. Méthode du hot take : "avec quoi je suis en
+  désaccord, que tout le monde dans ma niche pense ?"
+  *Ex. FA : « Le 5x5 pour tout le monde tout le temps, c'est une mauvaise idée passé
+  les 6 premiers mois. »*
+- **Small Epiphany (la petite épiphanie)** — une observation relatable du quotidien.
+  *Ex. FA : « T'as remarqué que tout le monde check son téléphone entre les séries
+  maintenant ? »*
+- **Story Time (le récit)** — un vrai récit avec un arc narratif, victoires ET échecs
+  (la vulnérabilité construit la confiance).
+- **Strong Take into Education** — le take fort sert juste de hook, puis tu pivotes
+  vers de l'éducatif à forte valeur.
+- **Humor yap** — un truc drôle, une scène cocasse, une moquerie gentille (format de
+  ton, pas de fond).
+
+**À ne jamais faire** : "mon top 3 préféré", "3 façons de scaler", le discours
+motivant générique — plat, ignoré, remplaçable par une IA.
+
+## Les 9 principes de fond
+
+1. Décris ce que les gens ressentent, en détail — mieux qu'eux-mêmes.
+2. Dis ce que les autres pensent mais ne disent pas (trop safe = ignoré).
+3. Sois plus généreux que la concurrence, ne gatekeep pas.
+4. Contenu non-égoïste : qu'est-ce que la personne gagne à te regarder ?
+5. Invite à te suivre.
+6. Ouvre des boucles (curiosité = raison n°1 de suivre).
+7. Ne stresse pas sur le reste — le talking-head/yap est le format le plus rentable.
+8. Repost tes outliers tous les 90 jours.
+9. Amuse-toi — une vidéo flop, rien à faire.
+
+## 4 structures de script (de la plus simple à la plus complexe)
+
+1. **Hook → Story → Point 1 → Point 2** — tu annonces le sujet, une anecdote qui
+   retient, puis deux arguments.
+2. **Le 8 Mile** — Hook (position forte) → Contre-argument (tu énonces toi-même
+   l'objection) → Démontage → Ta thèse. Élimine les objections d'entrée, les gens
+   restent parce qu'ils y pensaient déjà.
+3. **The List** — "voici N observations sur X", puis N mini-takes numérotés. Très
+   haute rétention : chaque point rouvre une micro-boucle.
+4. **ABT (And, But, Therefore)** — And (résultat rêvé posé d'entrée) → But (objection
+   interne/point de douleur — c'est LUI qui crée le hook et la tension) → Therefore
+   (solution unique, actionnable). À utiliser dès que ton script n'est qu'une suite de
+   "et... et... et..." sans tension.
+   *Ex. FA : "Tu peux ajouter 20kg à ton squat sans changer ta technique (And). Mais
+   la plupart des lifteurs pensent que plus de volume suffit, et stagnent quand même
+   (But). Donc tu ajoutes une variable : la vitesse d'exécution, pas la charge
+   (Therefore)."*
+
+## Présence caméra
+
+- Parle à **UNE** personne, jamais "hey les gars".
+- Cringe ? Baisse ton énergie, ne te survolte pas.
+- Rien à dire ? Dis ce que les autres ne diront pas — sors un hot take.
+- Sois moins formel, même en tant que coach — les gens en ont marre des gens rigides.
+- Vise UN point clair plutôt que d'impressionner.
+
+## Règles d'écriture
+
+- Hook crucial, 2-3 secondes pour convaincre.
+- Densité ~130 mots/45s, 150 mots/60s.
+- Zéro intro, pas de nom, pas de preuve sociale en ouverture.
+- Élague 30-40% du premier brouillon.
+- Ton confiant et assumé — un take se défend, il ne s'excuse pas.
+- Reste narrow — un seul sujet complet par vidéo.
+
+## Format de sortie — Yap
+
+```
+🎬 SUJET : [sujet]
+📂 FRAMEWORK : [Strong Take / Small Epiphany / Story Time / Strong Take into Education / Humor]
+🎥 FORMAT VISUEL : [standard / walking / car / graphic]
+📐 STRUCTURE : [Hook→Story→Points / 8 Mile / The List / ABT]
+
+--- SCRIPT ---
+"..." [texte parlé complet, prêt à tourner en méthode Recut]
+
+--- CHECKLIST ---
+[ ] Hook < 3s, stoppe le scroll
+[ ] Take tranché, pas safe
+[ ] Zéro intro
+[ ] Narrow (un seul sujet)
+[ ] ~130 mots/45s
+[ ] Ton confiant, zéro disclaimer
+
+--- LÉGENDE INSTAGRAM ---
+[1-2 lignes + emoji]
+```
+
+---
+---
+
+## CTA — options (tous formats)
+
+- **Lien en bio** → candidater au pré-coaching (cohérent avec la landing page).
+- **DM mot-clé** → réponds "FORCE" (ou autre mot-clé) et je t'envoie [ressource/fiche/
+  programme] — capte des leads chauds en message perso, plus engageant qu'un lien froid.
+- **Commente X** → pour booster l'engagement sur du contenu educational/série.
+- **Question d'engagement** ("et toi, tu en es où ?") → pour du Yap/Vlog orienté
+  opinion, en fin de vidéo.

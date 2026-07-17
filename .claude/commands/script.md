@@ -24,9 +24,12 @@ structure.
    - Quelle perte invisible (temps, kg au total, blessure évitable) ça révèle ?
    - Quel point de friction émotionnel ça touche (peur de se blesser, ego, plateau,
      frustration de ne pas progresser) ?
-3. **Propose 3 hooks** construits à partir de la bibliothèque ci-dessous, chacun
-   activant au moins 3 des 6 règles psychologiques (voir section suivante). Ne
-   propose jamais un hook qui informe, explique ou rassure dès la première phrase.
+3. **Propose 3 hooks**, en priorisant un hook visuel/analogie (voir section "Priorité :
+   hook visuel / analogie") quand le sujet est une erreur technique ou un concept
+   abstrait, et en complétant avec des hooks purement verbaux mais aiguisés.
+   Chacun doit activer au moins 3 des 6 règles psychologiques. Ne propose jamais un
+   hook qui informe, explique ou rassure dès la première phrase. Passe chaque hook
+   au filtre anti-scolaire avant de le retenir.
 4. **Choisis la structure du corps** : storytelling (si le sujet est une histoire perso/
    client) ou éducatif (si le sujet est une erreur, un mythe, un tuto). Utilise les
    frameworks ci-dessous.
@@ -62,6 +65,60 @@ retire une certitude, suggère une perte, et retarde la solution.
 **Erreur à ne jamais commettre** : un hook qui liste ("3 erreurs sur ton squat") ou
 qui rassure ("c'est normal de stagner parfois") tue la rétention. Préfère toujours la
 version qui menace une croyance ou suggère une perte.
+
+---
+
+## Priorité : hook visuel / analogie
+
+Par défaut, **propose toujours en premier un hook visuel ou une analogie avec un
+objet/geste simple**, avant un hook purement parlé, dès que le sujet est une erreur
+technique ou un concept abstrait (coordination, tension, timing). Raison : la décision
+de rester ou scroller se prend en moins d'une seconde, avant que le cerveau ait fini
+de traiter une phrase. Un objet incongru (un élastique dans une vidéo de deadlift)
+crée une boucle mentale immédiate, sans dépendre du langage — c'est un raccourci
+qui protège mécaniquement contre le piège "scolaire" (expliquer/informer trop tôt).
+
+Le visuel n'est pas magique en soi : un hook visuel qui explique le lien tout de suite
+("cet élastique va t'expliquer pourquoi ta barre dérive") retombe dans le même piège
+scolaire, juste avec un accessoire en plus. La règle reste la même : ne jamais
+résoudre la tension dans le hook — l'objet doit d'abord sembler n'avoir aucun rapport.
+
+**Dispositifs visuels réutilisables** (objet du quotidien qui illustre une mécanique
+technique) :
+- Élastique tendu (tension progressive et symétrique vs à-coup)
+- Tir à la corde / corde tirée d'un seul côté (déséquilibre, asymétrie)
+- Balance à plateaux (équilibre qui bascule si un côté est en retard)
+- Chaise/table qu'on pose avec un pied en retard (bascule, instabilité)
+- Deux mains qui portent un plateau chargé (coordination, timing)
+- Ressort qu'on comprime trop vite vs progressivement (accumulation de tension,
+  relâchement brutal)
+
+**Quand privilégier le verbal pur** : si le sujet est une histoire perso/storytelling, un
+chiffre choc, ou une preuve sociale (transformation, résultat client) — le visuel y est
+déjà natif (avant/après, chrono, vidéo d'entraînement), pas besoin d'un objet
+métaphorique en plus.
+
+---
+
+## Filtre anti-scolaire
+
+Avant de retenir un hook (visuel ou verbal), vérifie qu'il ne tombe dans aucun de ces
+pièges — ce sont les patterns qui font stagner les vues :
+
+- ❌ **Intro pédagogique** : "Aujourd'hui je vais te parler de...", "Dans cette vidéo tu
+  vas apprendre...", "On va voir ensemble comment..."
+- ❌ **Liste annoncée d'entrée** : "Voici 3 erreurs sur ton squat", "5 astuces pour..."
+  — ça informe le cerveau du cadre complet, il n'a plus de raison de rester.
+- ❌ **Rassurance immédiate** : "C'est normal de stagner parfois", "Pas de panique
+  si..." — zéro tension, zéro urgence mentale, le cerveau se détend et scrolle.
+- ❌ **Explication complète en une phrase** : si le hook répond déjà à la question
+  qu'il pose, il n'y a plus de boucle mentale.
+- ❌ **Ton "professeur"** : vocabulaire scolaire, ton neutre/informatif, absence de
+  "tu" ou d'implication directe du viewer.
+
+✅ **Test rapide** : lis le hook seul, sans le reste du script. Si un inconnu comprend
+tout de suite de quoi parle la vidéo et pense "ok, pas besoin de regarder la suite" —
+il est trop scolaire, réécris-le.
 
 ---
 
@@ -200,6 +257,8 @@ Choisis le framework le plus adapté au sujet, condense-le à l'essentiel pour t
 
 - [ ] Le hook fait moins de 12 mots / moins de 3 secondes à l'oral ?
 - [ ] Le hook active au moins 3 des 6 règles psychologiques ?
+- [ ] Le hook a passé le filtre anti-scolaire (aucun des 5 pièges) ?
+- [ ] Un hook visuel/analogie a été envisagé en priorité si le sujet s'y prête ?
 - [ ] Zéro intro inutile ("salut", "aujourd'hui je vais te parler de") ?
 - [ ] Une seule idée centrale dans toute la vidéo ?
 - [ ] Chaque phrase découle logiquement de la précédente (cause → effet) ?

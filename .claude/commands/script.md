@@ -62,13 +62,17 @@ contraste du quotidien → **Format B**. Si c'est "montre ta journée/séance/co
      frustration de ne pas progresser) ?
 2. **Choisis UNE des 7 familles** (voir plus bas) — la famille dominante. Un hook
    d'une famille peut porter le corps d'une autre, mais décide-le consciemment.
-3. **Propose 3 hooks**, en priorisant un hook visuel/analogie quand le sujet est une
-   erreur technique ou un concept abstrait. Chacun doit activer au moins 3 des 6
-   règles psychologiques. Passe chaque hook au filtre anti-scolaire.
+3. **Propose 3 hooks verbaux**, en priorisant un hook visuel/analogie quand le sujet
+   est une erreur technique ou un concept abstrait. Chacun doit activer au moins 3 des
+   6 règles psychologiques. Passe chaque hook au filtre anti-scolaire.
 4. **Écris le script complet**, calibré 30-45s, cycle H-R-R, règles transverses
    (large → moyen → niche, connecteurs, densité ~130 mots/45s).
-5. **Passe la checklist de validation finale**.
-6. **Livre au format de sortie** plus bas.
+5. **Propose 3 hooks texte à l'écran**, écrits APRÈS le script (en réaction à ce qui
+   est réellement dit), chacun sur un levier différent parmi les 5 (douleur précise,
+   contraste/opposition, concept nommé, tangibilité, boucle de curiosité). Vérifie
+   chacun contre les règles de forme (≤9 mots, jamais déclaratif).
+6. **Passe la checklist de validation finale**.
+7. **Livre au format de sortie** plus bas.
 
 ## La psychologie du hook (0-3 secondes)
 
@@ -154,6 +158,58 @@ parle la vidéo et pense "pas besoin de regarder la suite" — réécris-le.
 - « La plupart des gens se trompent complètement sur ce point... »
 
 **Règle d'or** : bannir toute intro. Entrer directement dans le hook.
+
+## Hook texte à l'écran (distinct du hook verbal)
+
+**Règle mère : le texte à l'écran et la voix ne disent JAMAIS la même chose.** Dans
+les 3 premières secondes, le spectateur reçoit deux canaux en parallèle — ce qu'il lit
+et ce qu'il entend. S'ils disent la même chose, un canal est gaspillé. Fais-les
+pencher dans des directions opposées :
+- Si la voix penche **clarté** (elle explique de quoi ça parle), le texte penche
+  **curiosité** (il ouvre une question).
+- Si le texte donne la clarté, la voix ouvre la curiosité.
+
+**5 leviers pour choisir l'angle du hook texte** (une couche complémentaire aux 6
+règles du hook verbal — regarde lequel s'ouvre le plus naturellement pour le sujet) :
+
+1. **La douleur précise** — un truc que la cible vit et observe concrètement, pas une
+   douleur générale. *Ex. FA : "6 mois de squat, zéro kg en plus" (puis, en petit :
+   "c'est pas ton programme").*
+2. **Le contraste / opposition d'identité** — deux idées ou deux identités opposées
+   empilées, le spectateur choisit un camp et se sent visé. *Ex. FA : "Les lifteurs les
+   plus forts ne sont pas les plus costauds".*
+3. **Le concept nommé** — un nom marquant donné à un mécanisme réel (doit être vrai,
+   jamais un buzzword creux). *Ex. FA : "La règle du dérack inversé" (puis : "pourquoi
+   tu stagnes").*
+4. **La tangibilité** — un chiffre, une durée, une méthode précise plutôt que du flou.
+   Évite les montants en euros (forme la plus faible) — cherche l'émotion ou le
+   mécanisme sous le chiffre. *Ex. FA : "1 détail change tout ton squat" (puis : "les
+   coachs le loupent aussi").*
+5. **La boucle de curiosité** — une question ouverte, jamais résolue avant la fin.
+   *Ex. FA : "Pourquoi les plus forts ne cambrent jamais".*
+
+**Test pour choisir** : le levier qui rend l'idée "incompréhensible à sauter" est le bon.
+
+**Règles de forme (à vérifier sur chaque hook texte) :**
+- 9 mots max sur la ligne principale — au-delà, la rétention chute net.
+- Format roi : ~8 mots + une parenthèse de 2-3 mots en dessous (curiosité, objection
+  levée, ou chiffre de crédibilité).
+- 2 lignes, jamais 3.
+- Le mot le plus fort en premier — jamais un mot-outil en tête ("est", "le", "mais", "si").
+- Reste 7-10s à l'écran (pas 3), et doit "parler" de toute la vidéo, pas juste du début.
+- **Jamais une phrase déclarative.** Un fait asséné ferme la boucle. Reformule
+  toujours en question, contraste, ou relation.
+  *Mort : "Le gainage est important pour le squat." Vivant : "Ce que tu fais avant de
+  dérack décide de toute ta série."*
+- Sous-titres systématiques (~30% regardent sans le son).
+
+**Méthode d'écriture (l'ordre compte)** : le hook verbal s'écrit d'abord (c'est ce qui
+sera dit face caméra) ; le hook texte s'écrit APRÈS, en réaction à ce qui a été dit
+réellement — ça garantit qu'il n'y a pas de recouvrement entre les deux.
+
+**Dans chaque script généré, propose systématiquement 3 hooks texte**, chacun sur un
+levier différent, en plus des 3 hooks verbaux — pas pour les combiner tous, mais pour
+que Val choisisse la paire texte+voix la plus forte.
 
 ## Cycle H-R-R + les 5 actes
 
@@ -267,6 +323,10 @@ d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose
 - [ ] Résolution à la hauteur de la tension créée ?
 - [ ] CTA relié à une action précise ?
 - [ ] ~130 mots/45s, lu à voix haute sans essoufflement ?
+- [ ] 3 hooks texte proposés, chacun sur un levier différent ?
+- [ ] Chaque hook texte ≤ 9 mots sur la ligne principale (idéal ~8 + parenthèse) ?
+- [ ] Aucun hook texte déclaratif (reformulé en question/contraste/relation) ?
+- [ ] Hook texte ≠ hook verbal (aucun des deux ne dit la même chose) ?
 
 ## Format de sortie — Talking Head
 
@@ -276,10 +336,15 @@ d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose
 🩻 DIAGNOSTIC : croyance attaquée / erreur corrigée / perte suggérée / friction émotionnelle
 ⏱️ DURÉE CIBLE : [30s / 45s]
 
---- HOOKS ---
+--- HOOKS VERBAUX ---
 1. [hook — règles activées]
 2. [hook — règles activées]
 3. [hook — règles activées]
+
+--- HOOKS TEXTE À L'ÉCRAN ---
+1. [hook texte — levier utilisé]
+2. [hook texte — levier utilisé]
+3. [hook texte — levier utilisé]
 
 --- SCRIPT ---
 [0-3s] HOOK : "..."

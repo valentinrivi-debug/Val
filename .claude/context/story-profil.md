@@ -24,7 +24,7 @@ Du débutant à l'avancé.
 
 ## Histoire
 Passé par la musculation, orienté naturellement vers le power. Pratique depuis 5 ans,
-coach depuis 3 ans.
+coach depuis 4 ans.
 
 ## Offre
 Suivi mensuel à 140€/mois :

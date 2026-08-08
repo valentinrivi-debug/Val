@@ -224,6 +224,16 @@ Les 5 actes : **Hook** (tension immédiate) → **Contexte** (background minimal
 que les obstacles externes) → **Turning point** (le déclic, contraste avant/après) →
 **Résolution** (résultat + takeaway + CTA soft).
 
+**Règle critique sur le Contexte (confirmée par la data de rétention) : la phrase qui suit
+le hook ne doit JAMAIS l'expliquer ou le résoudre — elle doit ajouter une deuxième couche
+de mystère.** C'est le point de chute n°1 observé : le hook retient l'attention, mais si la
+phrase d'après donne déjà toute l'info ("et pourtant c'est ce que tout le monde pense...",
+avec le contexte complet exposé), la boucle se referme et le spectateur part. Bon réflexe :
+"Ton squat, c'est pareil." (reste cryptique, ne dit pas encore comment). Mauvais réflexe :
+une phrase qui résume la croyance commune en détail — ça revient à répondre à la question
+avant de l'avoir vraiment posée. Test : hook + phrase suivante lus ensemble, un inconnu
+doit encore se demander "où il veut en venir", pas déjà savoir de quoi parle la vidéo.
+
 **Calibrage** : ~2,5 mots/s → 30s ≈ 75 mots, 45s ≈ 110-115 mots.
 
 ## Les 7 familles de contenu éducatif
@@ -319,6 +329,7 @@ d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose
 - [ ] Zéro intro inutile ?
 - [ ] Une seule idée centrale ?
 - [ ] Cause → effet tout du long, connecteurs présents ?
+- [ ] La phrase juste après le hook ajoute du mystère et ne résout/n'explique rien ?
 - [ ] Rehook vers le milieu de la vidéo ?
 - [ ] Résolution à la hauteur de la tension créée ?
 - [ ] CTA relié à une action précise ?

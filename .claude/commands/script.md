@@ -114,6 +114,29 @@ sociale — le visuel y est déjà natif. **Verbal pur aussi sur demande explici
 pour A/B tester visuel vs verbal sur un même type de sujet) : dans ce cas, propose les
 3 hooks en pur verbal, aiguisés au maximum via les 6 règles, sans chercher de dispositif.
 
+## Règle du premier plan (rupture de pattern)
+
+Le tout premier frame ne doit **jamais** montrer Val statique, debout, en train de se
+préparer à parler — ce plan se reconnaît instantanément comme "coach qui va m'expliquer
+un truc" et l'œil décroche avant même le hook. Le premier plan doit créer une rupture
+visuelle : un détail, un objet ou une action déjà en cours, sur lequel le hook parlé
+vient se poser — pas un plan de Val qui attend de démarrer.
+
+**Techniques** :
+- **Objet du dispositif visuel en premier, en silence.** Montre l'objet (élastique, table
+  qui bascule, plaque au-dessus des épaules vs derrière la tête, sac loin/près du corps)
+  1-2s avant le premier mot — l'œil cherche à comprendre avant d'entendre.
+- **In medias res.** Ouvre sur l'erreur en train de se produire (le genou qui rentre, la
+  hanche qui monte trop tôt), jamais sur Val debout prêt à commencer.
+- **Détail plutôt que plan large.** Gros plan sur les mains, les pieds, la barre qu'on
+  charge — le visage n'apparaît qu'au moment où la voix démarre, pas avant.
+- **Split screen silencieux.** Avant/après côte à côte, sans Val visible, sans son — l'œil
+  compare avant de comprendre pourquoi.
+
+Test : si le premier frame, mis en pause, ressemble à "un coach debout en salle", c'est à
+retravailler — il doit ressembler à autre chose, quitte à ce que le lien avec le sujet ne
+soit compris qu'une seconde plus tard.
+
 ## Filtre anti-scolaire
 
 - ❌ **Intro pédagogique** : "Aujourd'hui je vais te parler de...", "Dans cette vidéo tu

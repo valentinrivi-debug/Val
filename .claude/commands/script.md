@@ -137,6 +137,32 @@ Test : si le premier frame, mis en pause, ressemble à "un coach debout en salle
 retravailler — il doit ressembler à autre chose, quitte à ce que le lien avec le sujet ne
 soit compris qu'une seconde plus tard.
 
+## Dynamisme — changements de plan
+
+Change de plan toutes les 3-5s, **y compris à l'intérieur d'un même beat du script** — pas
+un seul plan par beat. C'est la même cadence que la règle Retain (changement toutes les
+3-5s) appliquée à l'image en plus du texte : l'œil doit être sollicité aussi souvent que
+l'attention doit être retenue.
+
+**Dans le script généré, annote chaque changement avec `[plan : ...]`, directement au
+milieu d'une phrase si besoin** — pas uniquement en tête de beat. Une phrase de 8-10
+secondes peut très bien contenir 2 à 3 marqueurs de plan.
+
+**Techniques pour varier** :
+- Alterner les axes : face / profil / trois-quarts, gauche / droite, plongée / contre-plongée.
+- Alterner large et serré : un plan large qui montre le mouvement complet, puis un gros
+  plan sur le détail qui compte (main, pied, hanche).
+- **Charge progressive comme dispositif de dynamisme ET de preuve** : montrer la
+  correction d'abord à vide ou léger (le mouvement se voit clairement), puis sous charge
+  de travail ou lourde (ça prouve que le point tient en conditions réelles, pas juste en
+  démo). Ça ajoute un enjeu visuel croissant en plus du changement d'angle pur.
+- Vitesse variable : ralenti sur l'instant clé (le moment de l'erreur ou de la correction),
+  vitesse normale ou accélérée sur les transitions.
+- Couper sur l'action, jamais juste avant ou après — le cut doit tomber pile au moment où
+  ça bouge.
+- Jump cut possible au milieu d'une phrase (pas seulement entre deux phrases) pour garder
+  l'énergie, tant que le sens reste clair à l'oral.
+
 ## Filtre anti-scolaire
 
 - ❌ **Intro pédagogique** : "Aujourd'hui je vais te parler de...", "Dans cette vidéo tu
@@ -353,6 +379,7 @@ d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose
 - [ ] Une seule idée centrale ?
 - [ ] Cause → effet tout du long, connecteurs présents ?
 - [ ] La phrase juste après le hook ajoute du mystère et ne résout/n'explique rien ?
+- [ ] Changements de plan annotés toutes les 3-5s, y compris au sein d'un même beat ?
 - [ ] Rehook vers le milieu de la vidéo ?
 - [ ] Résolution à la hauteur de la tension créée ?
 - [ ] CTA relié à une action précise ?

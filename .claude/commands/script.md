@@ -283,6 +283,18 @@ une phrase qui résume la croyance commune en détail — ça revient à répond
 avant de l'avoir vraiment posée. Test : hook + phrase suivante lus ensemble, un inconnu
 doit encore se demander "où il veut en venir", pas déjà savoir de quoi parle la vidéo.
 
+**Micro-hooks répétés dans le corps (analyse d'un réel performant) : ne mets pas tout ton
+retournement dans le seul Turning point — distille un "tu penses X, en fait Y" à chaque
+sous-étape technique du corps du script, pas une seule fois au début.** Un réel qui a
+surperformé avait un hook d'ouverture assez faible (pattern "je vais te montrer comment"
+normalement à éviter), mais un corps qui rouvrait la tension à chaque étape : "tu penses
+que faire ça, c'est être neutre, tu te trompes" sur l'étape 1, puis "ne te concentre pas
+uniquement sur X, mais plutôt sur Y" sur l'étape 2. Résultat : un hook moyen mais un Retain
+excellent a quand même bien performé — preuve que le Retain (surtout la répétition du
+retournement de croyance à chaque étape) pèse plus lourd que la perfection du hook seul.
+Sur un script à plusieurs étapes techniques (ex. 3 corrections successives), vise un
+micro-retournement par étape plutôt qu'un seul grand retournement au milieu.
+
 **Calibrage** : ~2,5 mots/s → 30s ≈ 75 mots, 45s ≈ 110-115 mots.
 
 ## Les 7 familles de contenu éducatif

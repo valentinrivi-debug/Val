@@ -201,6 +201,16 @@ parle la vidéo et pense "pas besoin de regarder la suite" — réécris-le.
 - « Ce programme dure 12 semaines et ajoute 20kg à ton total. »
 - « Voici mon squat avant 12 semaines de travail technique, voici après. »
 
+**Gabarit validé : la prédiction retournée** — « Tu vas louper ton [mouvement], et ce
+n'est même pas forcément à cause de [la partie du corps la plus évidente]. » Repéré sur
+deux réels qui ont surperformé (bench et squat) : le spectateur s'attend à un coupable
+logique (les jambes, les bras), le hook lui retire cette certitude sans encore révéler
+le vrai coupable. **C'est un dispositif de plus dans la bibliothèque, pas un remplaçant
+des autres — continue de tester des hooks et des formats neufs plutôt que de te reposer
+dessus par défaut.**
+*Ex. : « Tu vas louper ton squat, et ce n'est même pas forcément à cause de tes jambes. »
+« Tu rates ton sumo avant même de tirer. »*
+
 **Rehook au milieu de la vidéo (~15-20s)**
 - « Mais voici le vrai problème que personne ne te dit... »
 - « Et le pire ? Je pensais que tout le monde faisait ça. »
@@ -294,6 +304,18 @@ excellent a quand même bien performé — preuve que le Retain (surtout la rép
 retournement de croyance à chaque étape) pèse plus lourd que la perfection du hook seul.
 Sur un script à plusieurs étapes techniques (ex. 3 corrections successives), vise un
 micro-retournement par étape plutôt qu'un seul grand retournement au milieu.
+
+**Narration en temps réel (analyse d'un réel performant) : quand la démo le permet,
+commente l'effet PENDANT qu'il se produit devant la caméra, plutôt que de seulement
+instruire.** Ex. : "Je fais quasiment rien et la barre commence déjà à se décoller parce
+que je suis en tension." C'est une preuve live — le spectateur voit le résultat annoncé
+se réaliser en direct, plus convaincant qu'une instruction seule. À utiliser quand le
+geste le permet (un effet visible et immédiat), pas à forcer partout.
+
+**Ces deux dispositifs (gabarit de hook "prédiction retournée" et narration en temps
+réel) sont des options validées à piocher, pas des passages obligés — continue de
+tester des hooks et des formats neufs à chaque nouveau script plutôt que de converger
+systématiquement dessus.**
 
 **Calibrage** : ~2,5 mots/s → 30s ≈ 75 mots, 45s ≈ 110-115 mots.
 

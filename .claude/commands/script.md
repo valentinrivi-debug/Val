@@ -47,6 +47,24 @@ squat/bench/deadlift déjà écrits) → **Format A**. Si c'est une observation 
 contraste du quotidien → **Format B**. Si c'est "montre ta journée/séance/coaching" →
 **Format C**. Si c'est un avis tranché sur l'entraînement ou le milieu → **Format D**.
 
+## Checklist de pré-production (avant d'écrire quoi que ce soit)
+
+Une fois le format choisi, passe ces 7 points en revue — ça évite d'improviser en
+plein milieu du script et ça force à décider chaque brique avant de rédiger :
+
+- [ ] **Sujet / idée** : quel est le sujet précis, et pourquoi ça doit intéresser CE
+      viewer-là (pas juste "c'est un bon sujet") ?
+- [ ] **Angle** : comment le sujet est abordé — histoire perso, comparaison, review,
+      tier list, analyse détaillée ? Provoc/choquant, ou purement éducatif ?
+- [ ] **Structure du hook** : comment les 3 premières secondes s'articulent — visuel,
+      texte à l'écran, et audio, chacun pensé séparément.
+- [ ] **Structure narrative** : quel framework porte le script (H-R-R, étude de cas,
+      liste, storytelling) ?
+- [ ] **Format visuel** : green screen, carrousel, reel filmé à l'iPhone, voix off,
+      vlog ?
+- [ ] **Visuels clés** : quels b-roll, incrustations, graphiques sont indispensables ?
+- [ ] **Audio** : quelle musique de fond, quelle voix par-dessus ?
+
 ---
 ---
 
@@ -217,6 +235,99 @@ dessus par défaut.**
 - « La plupart des gens se trompent complètement sur ce point... »
 
 **Règle d'or** : bannir toute intro. Entrer directement dans le hook.
+
+### Gabarits à trous (50 formules réutilisables, déjà adaptées FA)
+
+Une banque de structures à trous — change juste le mouvement/la douleur/le délai
+selon le sujet du jour. Piocher, ne pas tout utiliser d'affilée.
+
+1. Et si tu pouvais soulever 200kg sans jamais souffrir de douleurs articulaires ?
+2. Tu veux savoir pourquoi le "maxing out" chaque semaine ne fonctionne pas quand tu
+   essaies d'augmenter tes performances ?
+3. Inquiet de ne jamais surmonter tes douleurs au bas du dos ?
+4. Voici les principales questions que je reçois à propos de comment améliorer ton
+   squat max.
+5. 5 façons d'ajouter 20kg à ton deadlift en 30 jours.
+6. 3 choses que tu ne devrais JAMAIS faire si tu veux progresser en haltérophilie.
+7. La plus grosse erreur que les powerlifters font et qui les empêche de gagner en
+   force est de négliger la récupération.
+8. Voici les 5 questions les plus fréquentes que j'entends de la part des débutants
+   en haltérophilie qui essaient d'augmenter leurs PR.
+9. Un powerlifter amateur révèle une astuce peu connue utilisée par les champions
+   pour rester sans blessures.
+10. Voici comment les athlètes de CrossFit augmentent leur force sans sacrifier
+    leur mobilité.
+11. Marre de stagner dans tes performances de squat ?
+12. Voici les 5 plus grandes erreurs que les débutants en powerlifting font lorsqu'ils
+    commencent.
+13. Voici ce que les athlètes élites PRIENT pour que tu ne découvres jamais à propos
+    de la récupération active.
+14. Si tu as du mal à augmenter ton bench, tu dois ARRÊTER de ne faire que des séries
+    lourdes, car ça fatigue excessivement tes articulations.
+15. Voici le secret pour augmenter ta force que les athlètes de haut niveau espèrent
+    que tu ne découvriras jamais.
+16. Si tu essaies de progresser en haltérophilie, arrête d'entraîner les mêmes
+    mouvements tous les jours ! Ça semble fou, non ? Voici pourquoi.
+17. Marre de ne jamais avoir assez de force pour tes PR ?
+18. N'est-il pas temps d'arrêter de lutter avec tes douleurs chroniques après
+    l'entraînement ?
+19. N'est-il pas temps d'obtenir enfin cette progression en deadlift que tu désires
+    tant ?
+20. En 6 mois, je suis passé de douleurs aux épaules à des PR en snatch — voici
+    comment.
+21. Devine lequel de ces types d'entraînements est en réalité la cause de ta
+    fatigue musculaire chronique.
+22. Savais-tu qu'à chaque fois que tu négliges ton échauffement, tu augmentes tes
+    risques de blessure ?
+23. Comment aimerais-tu améliorer ta force et ton endurance sans jamais ressentir
+    de douleurs musculaires ?
+24. Et si tu pouvais t'entraîner comme un champion olympique sans jamais te
+    blesser ?
+25. Et si je te disais que tu peux encore progresser sans augmenter tes séances
+    d'entraînement, et que ça n'a absolument rien à voir avec l'intensité ?
+26. Récemment, quelqu'un m'a demandé comment j'ai augmenté mon max au squat — au
+    lieu d'une conversation d'une heure, je l'ai envoyé vers mon programme.
+27. Alors, tu as juste fait une séance de squat lourd, mais tu souffres encore de
+    douleurs lombaires en essayant de comprendre pourquoi.
+28. S'entraîner plus dur est la clé, n'est-ce pas ? NON. Ça peut causer de graves
+    blessures si tu ne planifies pas ta récupération.
+29. Voici une astuce étrange pour améliorer ton PR au deadlift qui aide les
+    powerlifters à progresser sans surentraîner leurs muscles.
+30. Si tu es un haltérophile qui essaie de gagner en force sans te blesser, voici
+    3 astuces que tu peux appliquer dès aujourd'hui.
+31. 5 signes que tu es un DÉBUTANT en haltérophilie et non un EXPERT.
+32. 4 façons dont je peux dire que tu es un DÉBUTANT en CrossFit et non un EXPERT.
+33. 3 erreurs courantes qui distinguent un DÉBUTANT en powerlifting d'un EXPERT.
+34. Voici 5 choses que chaque débutant en CrossFit DOIT savoir avant de commencer
+    à soulever des poids lourds.
+35. Voici 5 façons de gagner en force sans te blesser.
+36. Crois-le ou non, cette astuce étrange aide les haltérophiles à augmenter leur
+    force sans douleurs articulaires.
+37. Si tu as déjà soulevé 100kg mais que tu ne connais pas cette technique, je te
+    garantis que tu passes à côté de gains de force importants.
+38. ATTENTION, cette annonce est uniquement destinée aux personnes sérieuses à
+    propos de l'amélioration de leur force en haltérophilie.
+39. Tu te demandes ce que font les athlètes élites pour augmenter leur force ? Je
+    te garantis que ce n'est PAS en s'entraînant de manière excessive.
+40. Savais-tu que l'haltérophile moyen souffre de douleurs articulaires à cause
+    d'une mauvaise récupération ?
+41. La meilleure façon de progresser en force cette année n'est PAS en faisant des
+    max-out chaque semaine, comme tout le monde le pense.
+42. La plupart des powerlifters ne savent pas ça, mais la meilleure méthode pour
+    améliorer ta force n'est PAS d'ajouter toujours plus de poids.
+43. Croirais-tu que quelques simples ajustements dans ta technique de squat
+    pourraient drastiquement diminuer tes douleurs au bas du dos ?
+44. Voici comment améliorer ton squat SANS douleurs aux genoux, en aussi peu que
+    30 jours.
+45. Si tu peux t'échauffer correctement, alors tu peux aussi augmenter tes PR.
+46. Voici comment augmenter ta force et améliorer ton endurance dans les 90
+    prochains jours.
+47. Comment obtenir un PR au deadlift même si tu souffres de douleurs chroniques ?
+48. 3 façons d'améliorer ta performance au squat dans les 4 prochaines semaines
+    sans douleurs aux genoux.
+49. Avant de tester ton 1RM chaque semaine, tu risques une blessure sérieuse.
+50. Pourquoi la plupart des powerlifters n'atteignent jamais leurs PR, et comment
+    éviter leurs erreurs.
 
 ## Hook texte à l'écran (distinct du hook verbal)
 
@@ -394,13 +505,70 @@ d'entraînement » (le débutant enchaîne les séances à fond, l'athlète dose
 
 ## Frameworks de storytelling (si le contenu raconte une histoire perso/client)
 
-- **Parcours du héros** : Intro (problème) → Point de bascule → Tentatives ratées →
-  Climax (solution) → Résultat → CTA.
-- **Le déclic (Breakthrough)** : Problème répété → Déclic → Solution appliquée + résultat.
-- **Homme dans le trou** : Zone de confort → Déclencheur → Remise en question →
-  Reconstruction → Nouvel état.
-- **Du défi à la victoire** : Le doute → Lutte initiale → Tournant → Solution en
-  étapes → Transformation → Casser le mythe.
+**Parcours du héros** — pour une transformation client (Yazan, Julien...) ou perso.
+1. Intro : présente le héros + le problème. *"Il y a [X], [je/mon athlète] étais
+   bloqué sur [problème]."*
+2. Point de bascule : les douleurs liées au problème. *"À cause de ça, [je/il]
+   [douleurs/symptômes]."*
+3. Tentatives ratées : ce qui n'a pas marché. *"[J'ai/il a] essayé [solution 1],
+   [solution 2], mais rien ne changeait."*
+4. Climax : la solution. *"Après [X] sans résultat, [j'ai/il a] trouvé la seule
+   chose qui marchait vraiment : [solution]."*
+5. Résultat : le succès obtenu, chiffré. *"Dès que [j'ai/il a] commencé à faire ça,
+   [résultat chiffré]."*
+6. Résolution + CTA. *"C'est pour ça que j'accompagne des athlètes comme lui vers
+   [résultat]. Réponds COACHING."*
+
+**Le déclic (Breakthrough)** — pour une leçon technique ou mentale apprise à ses
+dépens.
+1. Problème : *"Je faisais [action] et j'obtenais quand même [mauvais résultat]."*
+2. Déclic : *"Jusqu'à ce que je réalise [prise de conscience]."*
+3. Solution : *"Voici les étapes qu'on a suivies : d'abord [étape 1], puis
+   [étape 2]..."*
+
+**Homme dans le trou** — pour raconter une stagnation ou une blessure surmontée,
+sans drame excessif (le point de départ n'est pas "mal", juste incomplet).
+1. Zone de confort : *"Il y a [X], j'étais un athlète tout à fait normal, je
+   m'entraînais comme [habitude] — je n'étais pas malheureux, mais il manquait
+   quelque chose."*
+2. Déclencheur : *"Puis, un jour, [événement : blessure, plateau, échec en
+   compétition]."*
+3. Crise : *"Cet événement m'a fait réaliser [apprentissage clé]."*
+4. Reconstruction : *"Alors j'ai commencé à [actions concrètes]."*
+5. Nouvel état : *"Et c'est ce qui m'amène à aujourd'hui : [résultat]."*
+
+**Du défi à la victoire** — pour casser un mythe via ton propre parcours.
+1. Le doute : *"Il y a [X], quelqu'un m'a dit que je n'aurais jamais [résultat]."*
+2. La lutte initiale : *"Je faisais [actions] et j'obtenais quand même [mauvais
+   résultat]."*
+3. Le tournant : *"Jusqu'à ce que je réalise [prise de conscience]."*
+4. La solution : *"J'ai suivi cette méthode en [X] étapes : [étape 1], [étape 2],
+   [étape 3]."*
+5. La transformation : *"Je suis passé de [avant] à [après]."*
+6. Casser le mythe : *"[Résultat], ce n'est pas si difficile — tu fais juste
+   probablement les mauvaises choses pour y arriver."*
+
+**À propos de moi** — pour un post épinglé ou une présentation (stories template 15
+et cette version scriptée se recoupent, choisis selon le format).
+1. Intro : *"Salut, je suis Val, et il y a [X années] j'étais [contexte de
+   départ]."*
+2. Conflit : *"Et puis tout a basculé : [événement]."*
+3. Prise de conscience : *"À cause de ça, j'ai réalisé [compréhension clé]."*
+4. Changement : *"Ce qui m'a poussé à [actions], et c'est ce qui m'amène à
+   aujourd'hui."*
+5. Raison d'être : *"[Résultat] a changé ma vie, et je me suis donné pour mission
+   d'aider [audience] à passer de [douleur] à [résultat] aussi."*
+
+**Le Grand Objectif / Le Rêve** — idéal pour une série "objectif X kg avant
+compétition", filmée en plusieurs épisodes.
+1. Présenter le rêve : *"Je m'entraîne depuis [X ans], et depuis le début j'ai
+   toujours rêvé de [objectif]."*
+2. Poursuite du rêve : *"Mais après des années à en rêver, [événement
+   déclencheur], et j'ai décidé que c'était maintenant ou jamais."*
+3. Point d'avancement : *"Pour l'instant, j'ai déjà [actions], et je suis sur le
+   point de [prochaine étape]."*
+4. Appel à l'action : *"Tu veux voir si j'y arrive dans les temps ? [CTA — suis
+   pour la suite]."*
 
 ## Checklist de validation finale
 

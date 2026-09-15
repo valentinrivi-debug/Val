@@ -68,6 +68,11 @@ d'important — sinon impossible de poser une musique par-dessus, et perte de la
 3. Monter dans Canva seulement une fois le texte validé : projet 1080x1350, carré de sécurité,
    dupliquer la slide 1 pour chaque écran, changer le texte. Exporter en PNG, tout d'un coup.
 
+**Quand un format marche : refais-le.** Une fois qu'un squelette fonctionne (comme "5 ans de
+power - 1 conseil" ou le carrousel Yazan), ne change pas tout au post suivant — répète-le, en
+changeant juste ce qu'il y a à l'intérieur. Ce n'est pas de la paresse, c'est ce qui construit une
+signature reconnaissable. Chaque post n'a pas à être nouveau à 100%.
+
 ## Fondations de design
 
 - **Lisibilité avant style, toujours.** Une couleur dominante, deux polices maximum, une image
@@ -226,6 +231,40 @@ le geste technique donne clarté + contexte + curiosité en 3 secondes, avant m�
 - La clôture douce (dernière slide) : un plan calme, sans CTA agressif.
 - *(Peu de texte sur les images ; le message passe par la légende. Format à part : pas d'AIDA/ROT
   strict, la logique est l'ambiance et l'affinité plutôt que la conversion directe.)*
+
+### Déclinaisons FA par famille (exemples déjà accordés à la niche)
+
+**1. La Liste** : "7 erreurs qui plombent ton squat sans que tu le saches" → un point par slide
+(genoux qui rentrent sous charge, pieds qui décollent, dos qui s'arrondit sur les dernières reps,
+descente trop rapide, gainage relâché, regard qui monte, barre qui dérive vers l'avant) → CTA :
+"Enregistre ce post, check laquelle te concerne à ta prochaine séance."
+
+**2. L'Histoire** : voir le carrousel Yazan (265kg → 320kg au deadlift, point de départ/stratégie/
+tableau de répartition/vision long terme/CTA) — exemple canonique déjà produit pour ce format.
+
+**3. Le Concept / Mental Model** : voir "LE POWER EST UN JEU DE CARTES" (micro-ajustements vs
+tout changer, fréquence/volume/intensité réservés au déblocage de plateau) — exemple canonique
+déjà produit pour ce format.
+
+**4. La Curation / Recap récurrent** : "Ce que j'ai noté cette semaine en coaching" → une
+pensée/observation par slide (une question qui revient chez mes athlètes, un détail technique
+remarqué en séance, un retour qu'on m'a fait) → relance : "À la semaine prochaine. Follow si tu
+veux ce rendez-vous chaque semaine."
+
+**5. Les Coulisses / BTS** : "CE QUI SE PASSE VRAIMENT PENDANT UNE SEMAINE DE COACHING" →
+contexte (19 athlètes suivis, retours quotidiens sous 24h) → l'envers du décor une porte à la fois
+("ce que tu vois : un programme / ce que tu vois pas : les ajustements après chaque vidéo
+technique") → le pourquoi (individualiser bat un programme générique) → CTA lien en bio.
+
+**6. La Ressource actionnable** : "MA CHECKLIST D'ÉCHAUFFEMENT AVANT UNE SÉANCE SQUAT. 5
+ÉTAPES →" → crédibilité → le cadre (un échauffement générique ne prépare à rien, il doit être
+spécifique au mouvement du jour) → les 5 étapes déroulées, une par slide → CTA : "Commente
+ÉCHAUFFEMENT et je te l'envoie."
+
+**7. Le Photo dump / Lifestyle** : cover sous la barre, effort visible → alterne les plans (barre
+chargée, carnet de programmation, un athlète en séance, détail des mains sur la barre, salle vide
+le matin) → clôture douce (rangement de la barre en fin de séance) → CTA léger en légende, pas
+sur l'image.
 
 ## Process de génération
 

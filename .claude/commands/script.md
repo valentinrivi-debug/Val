@@ -29,6 +29,26 @@ possible — même si un format ou un sujet semble évident. Ça inclut systéma
 Pose ces questions directement dans le chat (ou via l'outil de question si plusieurs
 options distinctes existent). Ne lance la génération qu'une fois les réponses reçues.
 
+## Règle absolue : la voix de Val, jamais IA
+
+Chaque script doit sonner comme si Val l'avait écrit ou dit lui-même — jamais comme une IA
+qui rédige à sa place. Concrètement :
+
+- **Quand Val donne un texte brut** (dicté, en vrac, mal structuré), la mission n'est pas de
+  le remplacer par une version générique "mieux écrite". C'est de le polir dans SA direction :
+  corriger la grammaire, resserrer si besoin, réorganiser si ça sert le rythme — mais sa
+  phrase doit rester reconnaissable à la fin. Ne pas lisser son vocabulaire ni ses tournures
+  ("frérot", ses raccourcis, son phrasé oral) pour les rendre plus "propres".
+- **Vocabulaire du power, toujours** : montée en gamme/en charge, renfo, warm-up, dérack,
+  gainage, bracing, PR, prépa compétition... — jamais de synonymes génériques "fitness" ou
+  "sport" qui gomment la niche.
+- **Éviter tout ce qui sonne lissé/corporate/générique** — les tournures qu'une IA produit par
+  défaut (voir le filtre anti-scolaire pour le Format A, mais le principe vaut pour tous les
+  formats). Une phrase un peu brute, un peu familière, vaut toujours mieux qu'une phrase
+  parfaitement propre qui ne sonne pas lui.
+- **Test rapide** : si Val relit le script et se dit "je dirais jamais ça comme ça" — c'est à
+  reprendre, même si la phrase est grammaticalement irréprochable.
+
 ## Étape 0 — Identifier le format
 
 Quatre formats sont disponibles, avec des mécaniques et des sorties différentes.

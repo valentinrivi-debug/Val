@@ -406,14 +406,25 @@ règles du hook verbal — regarde lequel s'ouvre le plus naturellement pour le 
   toujours en question, contraste, ou relation.
   *Mort : "Le gainage est important pour le squat." Vivant : "Ce que tu fais avant de
   dérack décide de toute ta série."*
-  **Preuve chiffrée (4 vidéos réelles, même format "clones à paliers")** : les 2
+  **Preuve chiffrée (5 vidéos réelles, même format "clones à paliers")** : les 2
   hooks mystère/universel ("3 niveaux, 1 seul dérack efficace", réutilisé tel quel
   sur 2 sujets différents) → 17K et 23,7K vues, 41% et 47% de rétention, 18 et 34
   followers gagnés. Les 2 hooks déclaratifs ("Ce que tu dois faire si t'as mal au
   dos" / "La solution pour ancrer ta hanche au deadlift") → 3,3K et 6,8K vues, ~29%
   de rétention chacun, 0 et 4 followers — malgré des sujets et des nombres de clones
   différents (2 ou 3) à chaque fois. Le hook déclaratif plombe systématiquement la
-  portée, la rétention ET la conversion en followers.
+  portée, la rétention ET la conversion en followers. **Mais un hook mystère seul ne
+  suffit pas** : une 5e vidéo avec un hook de la même famille ("3 niveaux, 1 seul
+  détail les séparent") s'est effondrée à 2K vues et 30% de rétention — la seule
+  différence de production identifiée est l'absence de la pastille de poids
+  au-dessus de chaque clone (voir règle ci-dessous). Sans elle, la promesse "3
+  niveaux" du hook n'est jamais confirmée à l'écran.
+- **Format clones à paliers — pastille de poids obligatoire.** Chaque clone doit
+  avoir sa charge affichée à l'écran au-dessus de lui (ex. "CLONE 2 — 110KG BENCH"),
+  du début à la fin de son plan. C'est elle qui rend concrète la promesse du hook
+  ("3 niveaux...") et qui permet de suivre l'escalade entre les clones. Vidéo sans
+  pastille sur ce format → rétention et portée s'effondrent au niveau d'un hook
+  déclaratif, même avec un hook mystère correctement écrit.
 - Sous-titres systématiques (~30% regardent sans le son).
 
 **Méthode d'écriture (l'ordre compte)** : le hook verbal s'écrit d'abord (c'est ce qui

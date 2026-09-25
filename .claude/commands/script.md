@@ -406,12 +406,14 @@ règles du hook verbal — regarde lequel s'ouvre le plus naturellement pour le 
   toujours en question, contraste, ou relation.
   *Mort : "Le gainage est important pour le squat." Vivant : "Ce que tu fais avant de
   dérack décide de toute ta série."*
-  **Preuve chiffrée (3 vidéos réelles, même format "clones à paliers")** : hook
-  mystère/universel ("3 niveaux, 1 seul dérack efficace") → 17K vues, 41% de
-  rétention. Deux hooks déclaratifs sur d'autres vidéos du même format ("Ce que tu
-  dois faire si t'as mal au dos" / "La solution pour ancrer ta hanche au deadlift")
-  → 3,3K et 6,8K vues, ~29% de rétention chacun — malgré des sujets et des nombres de
-  clones différents. Le hook déclaratif plombe à la fois la portée ET la rétention.
+  **Preuve chiffrée (4 vidéos réelles, même format "clones à paliers")** : les 2
+  hooks mystère/universel ("3 niveaux, 1 seul dérack efficace", réutilisé tel quel
+  sur 2 sujets différents) → 17K et 23,7K vues, 41% et 47% de rétention, 18 et 34
+  followers gagnés. Les 2 hooks déclaratifs ("Ce que tu dois faire si t'as mal au
+  dos" / "La solution pour ancrer ta hanche au deadlift") → 3,3K et 6,8K vues, ~29%
+  de rétention chacun, 0 et 4 followers — malgré des sujets et des nombres de clones
+  différents (2 ou 3) à chaque fois. Le hook déclaratif plombe systématiquement la
+  portée, la rétention ET la conversion en followers.
 - Sous-titres systématiques (~30% regardent sans le son).
 
 **Méthode d'écriture (l'ordre compte)** : le hook verbal s'écrit d'abord (c'est ce qui

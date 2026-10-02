@@ -758,6 +758,18 @@ head (scripté, poli), le vlog est brut et authentique.
 - **B-roll à valeur** — voix off utile sur du b-roll, sans face caméra. *Ex. FA : tu
   montres tes séances de coaching de la semaine en b-roll, voix off "voici les 3
   erreurs que je corrige le plus en ce moment chez mes athlètes."*
+  **Le hook verbal est plus tolérant sur ce format.** Preuve chiffrée : un réel B-roll
+  ("Est-ce que tu savais que la chose la plus importante au bench c'est ce que tu fais
+  avec ta nuque ? Je t'explique.") a fait 28,1K vues, 355 enregistrements et 58
+  followers gagnés — son meilleur score toutes vidéos confondues — alors que le hook
+  utilise une question ET une mini-annonce ("je t'explique"), deux patterns évités
+  d'habitude (voir filtre anti-scolaire). Hypothèse : sans face caméra, le hook texte
+  à l'écran porte l'essentiel du travail (~30% regardent sans le son) — ici "TA NUQUE :
+  LE DÉTAIL QUI CHANGE TOUT (EN 30 SECONDES)", concept nommé + tangibilité, qui ne
+  révèle jamais LE détail. Donc sur ce format spécifiquement, un hook verbal en
+  question/légère annonce reste acceptable **si le hook texte, lui, reste rigoureux**
+  (jamais déclaratif, ne dit pas la même chose que la voix). Règle inchangée pour le
+  Talking Head (Format A) où tout repose sur les 3 premières secondes parlées.
 - **Esthétique et silencieux** — peu/pas de voix, le texte remplace la voix, monté sur
   la musique. Deux couches d'info (visuel qui accroche + texte qui dit autre chose) =
   rétention maximale.

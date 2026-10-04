@@ -770,6 +770,25 @@ head (scripté, poli), le vlog est brut et authentique.
   question/légère annonce reste acceptable **si le hook texte, lui, reste rigoureux**
   (jamais déclaratif, ne dit pas la même chose que la voix). Règle inchangée pour le
   Talking Head (Format A) où tout repose sur les 3 premières secondes parlées.
+  **Gabarit validé : "Est-ce que tu savais que..."** — le squelette exact du réel
+  ci-dessus, réutilisable pour tout sujet technique d'un seul geste (pas une liste de
+  plusieurs erreurs — voir le format "clones à paliers" pour ça) :
+  1. **Hook** : *"Est-ce que tu savais que la chose la plus importante au [mouvement],
+     c'est [zone du corps/détail] ? Je t'explique."* — nomme une zone surprenante,
+     jamais la technique elle-même.
+  2. **Le cadre (1 phrase)** : l'action de départ, très courte, sans justifier
+     pourquoi. Action → nom donné à ce que ça crée.
+  3. **Les étapes séquentielles (2-4 actions)** : un verbe à l'impératif par ligne,
+     une seule consigne, zéro explication entre les lignes — la partie la plus dense,
+     la plus "tuto pur".
+  4. **Le mécanisme (1-2 phrases)** : tu nommes ce qu'on vient de verrouiller, et
+     pourquoi c'est un point clé de performance. Une seule phrase "pourquoi" dans tout
+     le script, pas plus.
+  5. **Le checkpoint final** : une phrase qui permet à l'athlète de s'auto-évaluer
+     concrètement, pas juste "à toi de jouer".
+  6. **Hook texte** : *"[ZONE DU CORPS] : LE DÉTAIL QUI CHANGE TOUT (EN X SECONDES)"*
+     — jamais la technique révélée, juste la zone + la promesse de durée.
+  Calibrage : ~90-100 mots pour ~34s, même densité que l'original.
 - **Esthétique et silencieux** — peu/pas de voix, le texte remplace la voix, monté sur
   la musique. Deux couches d'info (visuel qui accroche + texte qui dit autre chose) =
   rétention maximale.

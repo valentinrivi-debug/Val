@@ -49,6 +49,11 @@ Prénom : Valentin, le plus souvent "Val".
 **COACHING** — le mot que l'audience répond en DM pour recevoir l'offre/la ressource.
 
 ## Preuves sociales disponibles
-*Aucun exemple client fourni pour l'instant.* Tant qu'aucun cas réel n'est donné,
-laisser des trous `[Prénom élève]` / `[résultat chiffré]` / `[délai]` à remplir par Val
-avant publication — ne jamais inventer un chiffre ou un témoignage.
+Cas réels donnés par Val (détails dans `CLAUDE.md`, section "Cas athlètes") :
+- **Louis** : bench 193 kg, 0,5 kg au-dessus du record de France.
+- **Léa** : deadlift de 80 kg (tradi, avec douleurs de dos) à 130 kg en sumo, sans douleur.
+- **Yazan** : deadlift de 265 à 320 kg.
+- **Axel** : squat corrigé (descente initiée par la hanche), gros progrès en contrôle moteur.
+
+Pour tout autre cas, laisser des trous `[Prénom élève]` / `[résultat chiffré]` / `[délai]`
+à remplir par Val avant publication — ne jamais inventer un chiffre ou un témoignage.

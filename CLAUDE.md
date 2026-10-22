@@ -136,6 +136,14 @@ pour s'asseoir sur une chaise, accepter un buste un peu plus incliné. Tempo exc
 + pause isométrique en bas, RDL tempo pour les fessiers. Bloc en cours, gros progrès
 en contrôle moteur.
 
+**Christophe** (coaché en présentiel) : au bench, en reculant dans le banc, la nuque
+décollait (on voyait le jour entre nuque et banc) et il perdait sa dépression scapulaire
+dès qu'il tenait la barre. Correction : se placer et reculer **sans toucher la barre**
+jusqu'à l'avoir au niveau des yeux (double menton, nuque enfoncée), saisir la barre sans
+décrocher les épaules, reculer les derniers centimètres jusqu'à la barre au niveau de la
+bouche, puis ouvrir les coudes et sortir. Résultat (vidéo avant/après) : épaules loin des
+oreilles, beaucoup plus stable. On peut le nommer dans le contenu.
+
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de
 volume, de fréquence, d'intensité). Origine de sa philosophie santé + long terme.

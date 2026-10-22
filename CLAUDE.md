@@ -142,7 +142,9 @@ dès qu'il tenait la barre. Correction : se placer et reculer **sans toucher la 
 jusqu'à l'avoir au niveau des yeux (double menton, nuque enfoncée), saisir la barre sans
 décrocher les épaules, reculer les derniers centimètres jusqu'à la barre au niveau de la
 bouche, puis ouvrir les coudes et sortir. Résultat (vidéo avant/après) : épaules loin des
-oreilles, beaucoup plus stable. On peut le nommer dans le contenu.
+oreilles, beaucoup plus stable. On peut le nommer dans le contenu. Sur la vidéo avant,
+l'espace nuque/banc ne se voit pas : ce qui se voit, ce sont les épaules collées aux
+oreilles (manque de dépression scapulaire), c'est donc ça qu'il faut montrer en hook.
 
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de

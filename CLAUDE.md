@@ -172,8 +172,11 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   craque → "explique-moi ce que tu fais" (mauvaise interprétation révélée) → "Voilà",
   recadrage partie du corps + direction, "essaie" → l'athlète reformule et commente en
   direct → mécanisme en une phrase, le coach assume ("j'ai mal expliqué, celle-là je la
-  prends pour moi"), relance sur le défaut suivant. Scripts écrits : "serre les omoplates"
-  (bench) et "gaine-toi" (squat). Candidats restants : "plie la barre", "genoux dehors".
+  prends pour moi"), relance sur le défaut suivant. Scripts écrits : "éloigne tes épaules
+  de tes oreilles" (bench, validé par Val : le twist révèle que ses épaules ne touchent
+  pas le banc quand il recule ; nouveau cue = enfoncer la nuque dans le banc et l'allonger
+  en reculant, le plus relâché possible) et "gaine-toi" (squat, pas encore relu par Val).
+  Candidats restants : "plie la barre", "genoux dehors".
 
 ## Déjà produit ou publié (ne pas refaire)
 

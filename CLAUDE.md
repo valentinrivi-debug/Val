@@ -157,6 +157,17 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   vu chez ses athlètes revenus de blessure ; le cardio négligé en power ; l'éthique
   (coachs qui démarchent des athlètes déjà suivis) ; programmation simple (à développer) ;
   sa passion cartes Pokémon (One Shot autodérision).
+- **Clones écrits et validés, à tourner** : regard au squat (plafond → pieds → regard
+  neutre fixé au sol 1-2 m devant, hook "3 niveaux, 1 seul regard efficace") ; rebond sur
+  la poitrine au bench (rebond → descente contrôlée mais relâchement au contact → pousser
+  contre la barre même au contact, hook identique au record "3 niveaux, 1 seule technique
+  efficace"). Le bench reprend le fond de la vidéo "tension bench" qui avait floppé sans
+  pastille : bon test de la règle des pastilles.
+- **Clones non techniques écrits (attente de validation)** : séance compliquée (forcer
+  coûte que coûte → couper la séance → ajuster la charge pour rester dans le RPE) ;
+  3 coachs (même programme pour tous → ajuster le volume → partir du contexte, exemple du
+  bloc pivot). Attention : le format "3 coachs" ne doit jamais ressembler à du dénigrement
+  d'autres coachs (Val est contre ce genre de contenu).
 - **Clones** : "3 coachs à 3 niveaux" (vendre sa philosophie sans vendre) ; clones sur la
   programmation, la nutrition, la récup, le mental pré-compétition ; dos qui s'arrondit
   au deadlift ; rebond sur la poitrine au bench.

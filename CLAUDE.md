@@ -166,6 +166,14 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   comme refuge (brouillon écrit), la dépendance à la sensation de "forcer", le coach
   qui ne doit pas rassurer en permanence, le coach miroir plutôt que sauveur.
 - Carrousel du cas Louis (famille L'Histoire).
+- **Sketch "le cue incompris"** (à tester au tournage, PAS encore dans `/script` tant que
+  Val n'a pas ses propres stats) : inspiré d'une vidéo performante d'un autre créateur
+  ("bend the bar" → pression des auriculaires). 5 temps : cue répété en boucle, l'athlète
+  craque → "explique-moi ce que tu fais" (mauvaise interprétation révélée) → "Voilà",
+  recadrage partie du corps + direction, "essaie" → l'athlète reformule et commente en
+  direct → mécanisme en une phrase, le coach assume ("j'ai mal expliqué, celle-là je la
+  prends pour moi"), relance sur le défaut suivant. Scripts écrits : "serre les omoplates"
+  (bench) et "gaine-toi" (squat). Candidats restants : "plie la barre", "genoux dehors".
 
 ## Déjà produit ou publié (ne pas refaire)
 

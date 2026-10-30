@@ -169,7 +169,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   **Toujours 3 athlètes qui incarnent un problème courant, jamais 3 coachs** (Val a
   refusé le format "3 niveaux de coaching"). Validé : séance compliquée (forcer coûte que
   coûte → couper la séance → ajuster la charge pour rester dans le RPE, chute "Je vais
-  peut-être enlever 20 kilos alors" / "Commence par 10").
+  peut-être enlever 20 kilos alors" / "Commence par 10"). Écrit, en attente de
+  validation : la douleur en séance (forcer dans la douleur → tout arrêter → adapter
+  amplitude/variante/charge pour rester dans l'indolore, prévenir le coach, kiné si ça
+  persiste ; chute sur le "no pain no gain" de la bio).
 - **Clones** : clones non techniques sur la stagnation, la douleur, le test du max, le
   retour au coach, la nutrition, le mental pré-compétition ; dos qui s'arrondit au
   deadlift.

@@ -163,7 +163,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   contre la barre même au contact, hook identique au record "3 niveaux, 1 seule technique
   efficace"). Le bench reprend le fond de la vidéo "tension bench" qui avait floppé sans
   pastille : bon test de la règle des pastilles.
-- **Clones non techniques écrits (attente de validation)** : séance compliquée (forcer
+- **Clones non techniques écrits (attente de validation)**, en **format discussion** à
+  table, sans "ça ressemble à quoi" ni démo (décision de Val : la démo tombe à plat hors
+  technique). Hook texte "3 niveaux…" gardé sans "(tuto fin de vidéo)", tension gardée
+  par une dernière réplique qui fait sourire. Sujets : séance compliquée (forcer
   coûte que coûte → couper la séance → ajuster la charge pour rester dans le RPE) ;
   3 coachs (même programme pour tous → ajuster le volume → partir du contexte, exemple du
   bloc pivot). Attention : le format "3 coachs" ne doit jamais ressembler à du dénigrement

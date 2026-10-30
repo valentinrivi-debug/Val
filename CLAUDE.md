@@ -192,7 +192,9 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   [action difficile] et que tu [étape]…" → une phrase par étape, un plan par phrase →
   "…voilà ce que tu verras" → résultat montré en grand, plus un mot. Écrit, en attente :
   le bench de Louis (sa semaine décrite sans les sigles CG/2CT, non confirmés → payoff le
-  193 kg). Alternative proposée : journée de compétition vue par le coach.
+  193 kg). Alternative proposée : journée de compétition vue par le coach. Val aime ce
+  format pour montrer ce qu'il met en place avec ses athlètes → série possible, un
+  athlète par vidéo (Léa 130 kg, Yazan 320 kg écrits en brouillon).
 - **Sketch "le cue incompris"** (à tester au tournage, PAS encore dans `/script` tant que
   Val n'a pas ses propres stats) : inspiré d'une vidéo performante d'un autre créateur
   ("bend the bar" → pression des auriculaires). 5 temps : cue répété en boucle, l'athlète

@@ -182,6 +182,12 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   comme refuge (brouillon écrit), la dépendance à la sensation de "forcer", le coach
   qui ne doit pas rassurer en permanence, le coach miroir plutôt que sauveur.
 - Carrousel du cas Louis (famille L'Histoire).
+- **Format "objection"** (sans clones, inspiré d'un autre créateur) : objection → réponse
+  courte → insistance ("mais…") → recadrage en une phrase → etc. Val le veut un peu plus
+  long, sans "ok, et…" à la fin. Écrit, en attente : "Je débute, un coach c'est pas trop
+  tôt ?" (pas lourd → apprendre seul avec Insta → je progresse déjà → je verrai quand je
+  stagnerai ; chute possible sur sa propre blessure). Tournage : en réponse à un
+  commentaire, ou voix hors champ qui pose les questions.
 - **Sketch "le cue incompris"** (à tester au tournage, PAS encore dans `/script` tant que
   Val n'a pas ses propres stats) : inspiré d'une vidéo performante d'un autre créateur
   ("bend the bar" → pression des auriculaires). 5 temps : cue répété en boucle, l'athlète

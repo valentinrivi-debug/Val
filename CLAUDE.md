@@ -188,6 +188,11 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   tôt ?" (pas lourd → apprendre seul avec Insta → je progresse déjà → je verrai quand je
   stagnerai ; chute possible sur sa propre blessure). Tournage : en réponse à un
   commentaire, ou voix hors champ qui pose les questions.
+- **Format "hook conditionnel"** (inspiré d'une vidéo running à 253K likes) : "Si tu
+  [action difficile] et que tu [étape]…" → une phrase par étape, un plan par phrase →
+  "…voilà ce que tu verras" → résultat montré en grand, plus un mot. Écrit, en attente :
+  le bench de Louis (sa semaine décrite sans les sigles CG/2CT, non confirmés → payoff le
+  193 kg). Alternative proposée : journée de compétition vue par le coach.
 - **Sketch "le cue incompris"** (à tester au tournage, PAS encore dans `/script` tant que
   Val n'a pas ses propres stats) : inspiré d'une vidéo performante d'un autre créateur
   ("bend the bar" → pression des auriculaires). 5 temps : cue répété en boucle, l'athlète

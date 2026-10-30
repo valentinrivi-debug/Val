@@ -163,17 +163,16 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   contre la barre même au contact, hook identique au record "3 niveaux, 1 seule technique
   efficace"). Le bench reprend le fond de la vidéo "tension bench" qui avait floppé sans
   pastille : bon test de la règle des pastilles.
-- **Clones non techniques écrits (attente de validation)**, en **format discussion** à
-  table, sans "ça ressemble à quoi" ni démo (décision de Val : la démo tombe à plat hors
-  technique). Hook texte "3 niveaux…" gardé sans "(tuto fin de vidéo)", tension gardée
-  par une dernière réplique qui fait sourire. Sujets : séance compliquée (forcer
-  coûte que coûte → couper la séance → ajuster la charge pour rester dans le RPE) ;
-  3 coachs (même programme pour tous → ajuster le volume → partir du contexte, exemple du
-  bloc pivot). Attention : le format "3 coachs" ne doit jamais ressembler à du dénigrement
-  d'autres coachs (Val est contre ce genre de contenu).
-- **Clones** : "3 coachs à 3 niveaux" (vendre sa philosophie sans vendre) ; clones sur la
-  programmation, la nutrition, la récup, le mental pré-compétition ; dos qui s'arrondit
-  au deadlift ; rebond sur la poitrine au bench.
+- **Clones non techniques** : **format discussion** à table, sans "ça ressemble à quoi"
+  ni démo (la démo tombe à plat hors technique). Hook texte "3 niveaux…" gardé sans
+  "(tuto fin de vidéo)", tension gardée par une dernière réplique qui fait sourire.
+  **Toujours 3 athlètes qui incarnent un problème courant, jamais 3 coachs** (Val a
+  refusé le format "3 niveaux de coaching"). Validé : séance compliquée (forcer coûte que
+  coûte → couper la séance → ajuster la charge pour rester dans le RPE, chute "Je vais
+  peut-être enlever 20 kilos alors" / "Commence par 10").
+- **Clones** : clones non techniques sur la stagnation, la douleur, le test du max, le
+  retour au coach, la nutrition, le mental pré-compétition ; dos qui s'arrondit au
+  deadlift.
 - **B-roll "Est-ce que tu savais que…"** : le grip (irradiation, déclinable sur les 3
   mouvements), le regard au squat, la respiration avant le décollage au deadlift.
 - **Psycho / threads** : syndrome de l'imposteur du lifteur intermédiaire, le contrôle

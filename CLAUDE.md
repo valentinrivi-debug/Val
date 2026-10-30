@@ -175,7 +175,7 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   prends pour moi"), relance sur le défaut suivant. Scripts écrits : "éloigne tes épaules
   de tes oreilles" (bench, validé par Val : le twist révèle que ses épaules ne touchent
   pas le banc quand il recule ; nouveau cue = enfoncer la nuque dans le banc et l'allonger
-  en reculant, le plus relâché possible) et "gaine-toi" (squat, pas encore relu par Val).
+  en reculant, le plus relâché possible) et "gaine-toi" (squat, validé par Val : il rentre le ventre au lieu de le gonfler à 360°).
   Candidats restants : "plie la barre", "genoux dehors".
 
 ## Déjà produit ou publié (ne pas refaire)

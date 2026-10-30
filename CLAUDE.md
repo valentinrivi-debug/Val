@@ -176,7 +176,12 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   de tes oreilles" (bench, validé par Val : le twist révèle que ses épaules ne touchent
   pas le banc quand il recule ; nouveau cue = enfoncer la nuque dans le banc et l'allonger
   en reculant, le plus relâché possible) et "gaine-toi" (squat, validé par Val : il rentre le ventre au lieu de le gonfler à 360°).
-  Candidats restants : "plie la barre", "genoux dehors".
+  Aussi "remonte tes fesses" (deadlift, validé : part trop assis, en remontant les
+  fesses son dos perd sa position ; twist = descendre vers la barre hanche en arrière,
+  épaules légèrement devant ; relance finale "pourquoi tu l'arraches" → partie 2 possible
+  sur "mets-toi en tension"). Hook texte commun conseillé pour la série : "Le cue que tout
+  le monde comprend de travers". Candidats restants : "plie la barre", "genoux dehors",
+  "pousse avec les talons", "mets-toi en tension", "garde le dos droit".
 
 ## Déjà produit ou publié (ne pas refaire)
 

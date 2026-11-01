@@ -173,6 +173,12 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   validation : la douleur en séance (forcer dans la douleur → tout arrêter → adapter
   amplitude/variante/charge pour rester dans l'indolore, prévenir le coach, kiné si ça
   persiste ; chute sur le "no pain no gain" de la bio).
+- **Clones "douleur"** (Val constate que la douleur marche bien en clones) : la douleur
+  va dans la 1re réplique du Clone 1, jamais dans le hook texte (record poignet = douleur
+  dans le dialogue + hook mystère ; "mal au dos" = douleur dans un hook déclaratif →
+  flop). Idées proposées : épaule au bench, coudes au bench, bas du dos au bench,
+  genoux au squat, bas du dos au squat (réutiliser le script bassin/bracing), poignets
+  et coudes au squat low bar, bas du dos au deadlift, hanche/aine en sumo.
 - **Clones** : clones non techniques sur la stagnation, la douleur, le test du max, le
   retour au coach, la nutrition, le mental pré-compétition ; dos qui s'arrondit au
   deadlift.

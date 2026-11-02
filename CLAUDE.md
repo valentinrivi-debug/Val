@@ -18,6 +18,8 @@ Commandes disponibles :
 - `/carrousel` : carrousels (7 familles, ROT, AIDA).
 - `/story` : stories (17 templates Stories Pro).
 - `/idees` : interview d'extraction d'idées en 2 phases.
+- `/debrief` : questionnaire sur les cas concrets récents des athlètes, pour parler plus
+  du coaching (et moins seulement d'éducatif) ; sort une fiche par cas + idées de contenus.
 - `/cas-athlete` : cas client avant/stratégie/après/projection, en carrousel ou en réel.
 
 Sources de formation (14 PDF) : `content/ressources/`.

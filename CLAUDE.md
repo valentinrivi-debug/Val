@@ -220,6 +220,16 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   le monde comprend de travers". Candidats restants : "plie la barre", "genoux dehors",
   "pousse avec les talons", "mets-toi en tension", "garde le dos droit".
 
+- **Lot de 10 scripts écrits le 05/11, en attente de retour de Val** :
+  clones "douleur" épaule au bench (coudes 45-70°, barre bas des pecs), bas du dos au
+  deadlift (mise en tension avant de décoller), coudes au squat low bar (le dos porte,
+  les mains tiennent), aine en sumo (genoux = orteils) ; clone discussion "test du max"
+  (sous-max 60-85 %, chute "En compète." / "…On s'inscrit où ?"). Sketchs cue incompris :
+  "pousse avec tes jambes" (bench, pousser vers le rack, fesses collées), "genoux dehors"
+  (squat, trois appuis du pied), "garde le dos droit" (deadlift, droit ≠ cambré à fond).
+  Sketchs coaching : "le RPE 7 le plus suspect" (retour vidéo, RPE = reps en réserve) et
+  "je me sens trop bien, je rajoute une série ?" (semaine de décharge).
+
 ## Déjà produit ou publié (ne pas refaire)
 
 - Threads tweet : attachement émotionnel à l'échec ; total ≠ identité ; la négativité

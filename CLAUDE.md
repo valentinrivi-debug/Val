@@ -45,6 +45,14 @@ Sources de formation (14 PDF) : `content/ressources/`.
   Sur Mac : clic droit → "Encoder les fichiers vidéo sélectionnés" → 480p.
 - **Données personnelles** : Val a déjà envoyé par erreur un document fiscal (Urssaf).
   Ne jamais traiter ni recopier ce genre de document ; le signaler et l'ignorer.
+- **Canva** connecté (compte de Val) : je peux lire ses designs, en créer, les dupliquer
+  et les éditer. Son gabarit habituel (fond photo sombre, texte blanc + un mot jaune) :
+  Val a demandé de ne PAS le réutiliser pour le carrousel Christophe. Nouveau style créé :
+  fond noir texturé, gros titre condensé en majuscules, mot-clé jaune, sous-titre fin,
+  cadre photo, compteur 1/9 + flèche. Val a des photos à mettre en fond.
+  Il m'autorise à enregistrer les modifs Canva sans redemander ("autorise tout").
+- **Vidéos dans Drive** : beaucoup de IMG_xxxx.mov sans nom, toutes > 10 Mo, donc
+  impossibles à ouvrir ici ; le dossier Drive CHRISTOPHE ne contient que des tableurs.
 - **Graphiques/schémas** : publiés en Artifact (lien), palette dataviz validée, sobres,
   mode clair/sombre. Pas de bouton d'export : pour un PDF, Safari → Partager → Imprimer
   → pincer l'aperçu → Enregistrer dans Fichiers.
@@ -237,6 +245,9 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   la proactivité de l'athlète et les clés données par le coach (prêt, dernière version :
   S9 "La proactivité, c'est ce qui peut vraiment faire décoller ta progression. Alors
   deviens acteur de celle-ci.").
+- Carrousel Christophe (épaules collées aux oreilles → 4 étapes → résultat → CTA
+  COACHING), 9 slides, Canva « CAROUSEL CHRISTOPHE — ÉPAULES BENCH » ; reste à mettre
+  les captures avant (slide 1) / après (slide 8) et les photos de fond.
 - Carrousels : ce qui se passe derrière un retour technique de 24h ; 5 erreurs de
   programmation (format tweet) ; checklist dérack bench ; Yazan ; jeu de cartes.
 - Vidéo épinglée de présentation de l'offre (script final validé).

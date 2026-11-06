@@ -240,6 +240,9 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Thread tweet "la dépendance à la sensation de forcer" (écrit le 06/11, en attente de
+  retour ; S1 "Si tu ne sors pas détruit de ta séance, tu as l'impression de ne rien
+  avoir fait.", chute "j'en avais encore").
 - Threads tweet : attachement émotionnel à l'échec ; total ≠ identité ; la négativité
   sur les réseaux ; la performance est contextuelle ; réagir à une séance ratée (publié) ;
   la proactivité de l'athlète et les clés données par le coach (prêt, dernière version :

@@ -167,8 +167,8 @@ s'appuie sur sa formation réhab pour cibler ses déficits et lui faire produire
 dessus. ~3-4 mois. Aujourd'hui : bench revenu à un bon niveau, squat/deadlift encore en
 retrait, mini-rechutes de douleur mieux gérées, cercle vertueux ; elle explique elle-même
 son raisonnement après une séance difficile (grande maturité). Suite : début de prépa avec
-un schéma plus spécifique. Pas de chiffres précis. Preuves : vocaux négatifs (avant) et
-positifs (maintenant).
+un schéma plus spécifique. Pas de chiffres précis. Preuves : vocaux. Val ne diffusera QUE les vocaux
+positifs (jamais ceux qui la mettraient en porte-à-faux) ; l'avant est raconté par Val.
 
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de

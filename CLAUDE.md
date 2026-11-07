@@ -156,6 +156,20 @@ oreilles, beaucoup plus stable. On peut le nommer dans le contenu. Sur la vidéo
 l'espace nuque/banc ne se voit pas : ce qui se voit, ce sont les épaules collées aux
 oreilles (manque de dépression scapulaire), c'est donc ça qu'il faut montrer en hook.
 
+**Noelia** (peut être nommée, accepte qu'on cite l'endométriose) : endométriose sévère,
+douleurs insertion ischio + sacrum/lombaires, mauvaise relation à l'entraînement (se
+dévalorisait, pleurait, coupait les séances, a envisagé d'arrêter le sport). Objectif :
+retrouver de la sérénité. 4 → 3 séances ; squat 2 → 1, deadlift 2 → 1, bench 2 gardés ;
+plus d'hypertrophie et d'exos qu'elle aime ; séances courtes et rentables. Travail mental :
+réflexion sur l'entraînement, recul, détachement émotionnel ; beaucoup d'écoute active et
+d'empathie de Val. Endométriose bien mieux gérée via la diète (aliments bruts). Val
+s'appuie sur sa formation réhab pour cibler ses déficits et lui faire produire de la force
+dessus. ~3-4 mois. Aujourd'hui : bench revenu à un bon niveau, squat/deadlift encore en
+retrait, mini-rechutes de douleur mieux gérées, cercle vertueux ; elle explique elle-même
+son raisonnement après une séance difficile (grande maturité). Suite : début de prépa avec
+un schéma plus spécifique. Pas de chiffres précis. Preuves : vocaux négatifs (avant) et
+positifs (maintenant).
+
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de
 volume, de fréquence, d'intensité). Origine de sa philosophie santé + long terme.

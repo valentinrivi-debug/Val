@@ -20,6 +20,9 @@ Commandes disponibles :
 - `/idees` : interview d'extraction d'idées en 2 phases.
 - `/debrief` : questionnaire sur les cas concrets récents des athlètes, pour parler plus
   du coaching (et moins seulement d'éducatif) ; sort une fiche par cas + idées de contenus.
+- `/vlog` : méthode de vlog imposée par Val (récit en vrac → 7 temps, une phrase de
+  voix off par temps + plan + durée, hook shot, liste de tournage, captation 3 plans,
+  montage 45 s = 45 plans). À appliquer absolument pour les vlogs.
 - `/cas-athlete` : cas client avant/stratégie/après/projection, en carrousel ou en réel.
 
 Sources de formation (14 PDF) : `content/ressources/`.

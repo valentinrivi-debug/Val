@@ -745,6 +745,11 @@ courage face caméra requis. Le moteur : le **CONTRASTE** entre l'image et le te
 
 # FORMAT C — VLOG
 
+> **Priorité** : pour un vlog "semaine" (Hero's journey en 7 temps), utiliser la méthode
+> de `/vlog` imposée par Val (une phrase de voix off par temps, plans gros/moyen/large,
+> hook shot, liste de tournage, aucun chiffre inventé, pas d'arc sans vrai échec). Elle
+> prime sur ce qui suit en cas de conflit.
+
 ## Principe
 
 Capté sur le vif, en immersion, montré plutôt qu'expliqué, tourné en clips de 1-3s.

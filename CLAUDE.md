@@ -254,6 +254,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Script réel Noelia (facecam + B-roll, 30-45 s, écrit le 07/11, en attente de retour) :
+  hook texte "ON A FAIT MOINS. ELLE A TOUT CHANGÉ.", vocal positif de Noelia en payoff,
+  CTA COACHING.
+
 - Thread tweet "la dépendance à la sensation de forcer" (écrit le 06/11, en attente de
   retour ; S1 "Si tu ne sors pas détruit de ta séance, tu as l'impression de ne rien
   avoir fait.", chute "j'en avais encore"). Angle voulu par Val, réparti dans les slides

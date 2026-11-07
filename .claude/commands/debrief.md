@@ -66,4 +66,5 @@ Terminer par un top 3 des cas les plus vendeurs, avec une ligne d'explication ch
 ## Après le debrief
 
 Ajouter chaque nouveau cas dans `CLAUDE.md`, section "Cas athlètes" (en notant s'il peut
-être nommé), puis commit + push.
+être nommé), ajouter sa ligne dans `.claude/context/problematiques.md` (problème
+vécu dans les mots du prospect, croyance, cas preuve), puis commit + push.

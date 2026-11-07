@@ -25,6 +25,9 @@ Commandes disponibles :
   montage 45 s = 45 plans). À appliquer absolument pour les vlogs.
 - `/cas-athlete` : cas client avant/stratégie/après/projection, en carrousel ou en réel.
 
+Carte des problématiques (stratégie d'acquisition : le prospect doit se dire « c'est
+moi ») : `.claude/context/problematiques.md`, utilisée par toutes les commandes de contenu.
+
 Sources de formation (14 PDF) : `content/ressources/`.
 
 ## Règles de travail (techniques)

@@ -4,6 +4,10 @@ description: Génère des stories Instagram (vente ou nurturing) pour Val, à pa
 
 # /story — Générateur de Stories Instagram (Val — Force Athlétique)
 
+> **Identification** : pour tout contenu qui expose un problème ou un cas athlète, partir
+> de `.claude/context/problematiques.md` (hook dans les mots du spectateur, athlète en
+> preuve ensuite).
+
 Demande de l'utilisateur : $ARGUMENTS
 
 ## Étape 0 — Lire le profil business

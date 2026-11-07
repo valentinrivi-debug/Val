@@ -4,6 +4,10 @@ description: Génère du contenu Instagram pour Force Athlétique (Talking Head 
 
 # /script — Générateur de contenu Instagram (Force Athlétique)
 
+> **Identification** : pour tout contenu qui expose un problème ou un cas athlète, partir
+> de `.claude/context/problematiques.md` (hook dans les mots du spectateur, athlète en
+> preuve ensuite).
+
 Demande de l'utilisateur : $ARGUMENTS
 
 ## Contexte du compte

@@ -4,6 +4,10 @@ description: Génère un cas client (avant/stratégie/après/projection) sur la 
 
 # /cas-athlete — Générateur de cas clients (Val — Force Athlétique)
 
+> **Identification** : pour tout contenu qui expose un problème ou un cas athlète, partir
+> de `.claude/context/problematiques.md` (hook dans les mots du spectateur, athlète en
+> preuve ensuite).
+
 Demande de l'utilisateur : $ARGUMENTS
 
 ## Étape 0 — Clarifier avant de générer

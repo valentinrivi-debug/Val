@@ -260,6 +260,11 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Script clones "barre trop lourde au dérack bench" (écrit le 08/11, en attente) : hook
+  "3 NIVEAUX, 1 SEULE SORTIE DE BARRE EFFICACE (TUTO FIN DE VIDÉO)", pastilles 70/100/140 ;
+  angle hauteur des supports + bras tendus + barre posée au-dessus des épaules sans la
+  tirer (différent de la vidéo dérack nuque).
+
 - Script réel Noelia (facecam + B-roll, 30-45 s, écrit le 07/11, en attente de retour) :
   hook texte "ON A FAIT MOINS. ELLE A TOUT CHANGÉ.", vocal positif de Noelia en payoff,
   CTA COACHING.

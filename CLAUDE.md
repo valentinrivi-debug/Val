@@ -264,7 +264,8 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   (Léa, "la pire chose à faire quand t'as mal"), vie chargée (Yazan, bloc pivot), plafond
   (Louis, 193 kg, chaque séance a un rôle), retour vidéo (Christophe, "tu regardes quoi ?"),
   le programme parfait n'existe pas (ajustements : Noelia 4→3 séances, Léa sumo).
-  Tous en CTA COACHING en DM.
+  Tous en CTA COACHING en DM. Val a demandé de NE PAS citer Léa (Yap 1, réécrit en
+  générique) ni Yazan (Yap 2, "un de mes athlètes") : demander avant de nommer un athlète.
 
 - Script clones "barre trop lourde au dérack bench" (écrit le 08/11, en attente) : hook
   "3 NIVEAUX, 1 SEULE SORTIE DE BARRE EFFICACE (TUTO FIN DE VIDÉO)", pastilles 70/100/140 ;

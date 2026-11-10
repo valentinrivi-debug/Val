@@ -262,7 +262,8 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 - 5 Yaps "donner envie de prendre du coaching" (écrits le 10/11, à tourner) : douleur
   (Léa, "la pire chose à faire quand t'as mal"), vie chargée (Yazan, bloc pivot), plafond
-  (Louis, 193 kg, chaque séance a un rôle), retour vidéo (Christophe, "tu regardes quoi ?"),
+  (Louis, 193 kg, chaque séance a un rôle), retour vidéo (Christophe, "tu regardes quoi ?" : REFUSÉ par Val, remplacé par "tu notes
+  tout sauf l'essentiel" : sommeil, boulot, stress, le contexte autour de la barre),
   le programme parfait n'existe pas (ajustements : Noelia 4→3 séances, Léa sumo).
   Tous en CTA COACHING en DM. Val a demandé de NE PAS citer Léa (Yap 1, réécrit en
   générique) ni Yazan (Yap 2, "un de mes athlètes") : demander avant de nommer un athlète.

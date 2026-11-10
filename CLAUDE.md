@@ -260,6 +260,11 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Carrousel "TU STAGNES ? avant de changer de programme" (écrit le 10/11, en attente) :
+  6 slides, sommeil / séries à l'échec / technique / régularité → CTA COACHING.
+  Val a aussi refusé les Yaps "tu notes tout sauf l'essentiel", "le coach qui rassure",
+  "pas besoin d'un coach quand tout va bien".
+
 - 5 Yaps "donner envie de prendre du coaching" (écrits le 10/11, à tourner) : douleur
   (Léa, "la pire chose à faire quand t'as mal"), vie chargée (Yazan, bloc pivot), plafond
   (Louis, 193 kg, chaque séance a un rôle), retour vidéo (Christophe, "tu regardes quoi ?" : REFUSÉ par Val, remplacé par "tu notes

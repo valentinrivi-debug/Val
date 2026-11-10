@@ -260,6 +260,12 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- 5 Yaps "donner envie de prendre du coaching" (écrits le 10/11, à tourner) : douleur
+  (Léa, "la pire chose à faire quand t'as mal"), vie chargée (Yazan, bloc pivot), plafond
+  (Louis, 193 kg, chaque séance a un rôle), retour vidéo (Christophe, "tu regardes quoi ?"),
+  le programme parfait n'existe pas (ajustements : Noelia 4→3 séances, Léa sumo).
+  Tous en CTA COACHING en DM.
+
 - Script clones "barre trop lourde au dérack bench" (écrit le 08/11, en attente) : hook
   "3 NIVEAUX, 1 SEULE SORTIE DE BARRE EFFICACE (TUTO FIN DE VIDÉO)", pastilles 70/100/140 ;
   angle hauteur des supports + bras tendus + barre posée au-dessus des épaules sans la

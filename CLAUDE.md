@@ -57,6 +57,10 @@ Sources de formation (14 PDF) : `content/ressources/`.
   fond noir texturé, gros titre condensé en majuscules, mot-clé jaune, sous-titre fin,
   cadre photo, compteur 1/9 + flèche. Val a des photos à mettre en fond.
   Il m'autorise à enregistrer les modifs Canva sans redemander ("autorise tout").
+- **Identité visuelle** : logo "Riviere Strength Development" (RSD) dans
+  `content/ressources/visuels/` (.ai d'origine + PNG transparent gris clair), photo de
+  compète de Val. Envoi de fichiers vers Canva possible (www.canva.com autorisé dans
+  l'environnement) : create-upload-url puis POST des octets.
 - **Vidéos dans Drive** : beaucoup de IMG_xxxx.mov sans nom, toutes > 10 Mo, donc
   impossibles à ouvrir ici ; le dossier Drive CHRISTOPHE ne contient que des tableurs.
 - **Graphiques/schémas** : publiés en Artifact (lien), palette dataviz validée, sobres,
@@ -261,8 +265,9 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 ## Déjà produit ou publié (ne pas refaire)
 
 - Couverture Canva "PERFORMANCES ATHLÈTES" (11/11) pour un carrousel des perfs de ses
-  athlètes : https://canva.link/oc7kcib8waqmf1f — photo stock à remplacer par une vraie
-  photo d'athlète.
+  athlètes : https://canva.link/oc7kcib8waqmf1f — refaite avec la vraie photo de compète
+  de Val (fond assombri, athlètes détourés par-dessus le titre = effet calque, logo RSD
+  en bas).
 
 - Carrousel "TU STAGNES ? avant de changer de programme" (écrit le 10/11, en attente) :
   6 slides, sommeil / séries à l'échec / technique / régularité → CTA COACHING.

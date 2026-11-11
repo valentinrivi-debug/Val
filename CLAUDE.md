@@ -260,6 +260,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Couverture Canva "PERFORMANCES ATHLÈTES" (11/11) pour un carrousel des perfs de ses
+  athlètes : https://canva.link/oc7kcib8waqmf1f — photo stock à remplacer par une vraie
+  photo d'athlète.
+
 - Carrousel "TU STAGNES ? avant de changer de programme" (écrit le 10/11, en attente) :
   6 slides, sommeil / séries à l'échec / technique / régularité → CTA COACHING.
   Val a aussi refusé les Yaps "tu notes tout sauf l'essentiel", "le coach qui rassure",

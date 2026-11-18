@@ -185,15 +185,15 @@ positifs (jamais ceux qui la mettraient en porte-à-faux) ; l'avant est raconté
 
 **Lara** : -57 kg open, compète le week-end du 14-15/11/2026 : 95 kg au bench validés,
 soit 2,5 kg au-dessus du minima Europe. Place aux championnats de France de bench
-décrochée ~2 mois avant. Objectif : se rapprocher des 100 kg aux France. Départ : 80 ou
-85 kg (à vérifier par Val). Point faible : perd sa tension pendant la pause (s'enfonce),
+décrochée ~2 mois avant. Objectif : se rapprocher des 100 kg aux France. Départ : 80 kg en
+début de collaboration (+15 kg). Point faible : perd sa tension pendant la pause (s'enfonce),
 pas de stabilité de leg drive. Bloc de 3 semaines de pic + S4 taper (compète en fin de S4) :
-- Lundi : bench lourd "poteau de CT" (= Spoto press ? à confirmer) : S1-S2 5x2, S3 2x2 + 3x2,
+- Lundi : Spoto press lourd, pause 2 secondes au-dessus de la poitrine : S1-S2 5x2, S3 2x2 + 3x2,
   S4 1x2 + 3x2.
 - Mercredi : bench compèt 4x4, pause irréprochable, incrémentation linéaire ; S4 3x4.
 - Jeudi : 3CT (pause 3 temps) 3x1 + Larsen 2x3, petites incréments, charge jamais
   limitante ; S3 3CT 2x1 à 83 kg ; S4 3CT 1x1 à 77,5 + Larsen 2x3 à 70 kg.
-- Fin de semaine (jour à préciser) : single + 5x2 lourd ; S3 single 90 kg, 5x2 à 82,5 ;
+- Fin de semaine : single + 5x2 lourd ; S3 single 90 kg, 5x2 à 82,5 ;
   absent en S4 (compète).
 Taper : on retire des séries mais on garde l'intensité, sinon elle se déconditionne.
 Script Yap green screen écrit le 18/11 (hook "4 BENCHS PAR SEMAINE. AUCUN N'A LE MÊME

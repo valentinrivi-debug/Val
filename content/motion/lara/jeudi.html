@@ -3,7 +3,7 @@
 <body><div id="stage"></div>
 <script src="../common.js"></script>
 <script>
-// Voix (≈ 11,5 s) : « Le jeudi, pause de trois secondes, puis Larsen, les jambes en l'air. Sans ses jambes
+// Voix (≈ 11,5 s) : « Le jeudi, pause de trois secondes, puis Larsen, les jambes tendues. Sans ses jambes
 // pour la stabiliser, elle doit tenir sa cage haute toute seule. Les charges montent très doucement :
 // cette séance ne doit jamais la limiter, elle prépare la suivante. »
 const C = { h: 0 }, L = (h, v) => ({ h, grey: 1, v }), P = (h, v) => ({ h, v });
@@ -11,7 +11,7 @@ const fns = [
   MF.header("JEUDI", "3CT + LARSEN", 1.2),
   MF.legend([
     { color: "#FAF4E6", text: "3CT · pause 3 secondes" },
-    { color: "#5C5C5C", text: "LARSEN · jambes en l'air" },
+    { color: "#5C5C5C", text: "LARSEN · jambes tendues" },
   ], 80, 430, 1.4),
   MF.text("OBJECTIF : CAGE HAUTE, SANS LEG DRIVE", "tag", { left: "80px", top: "580px", fontSize: "32px" }, 4.0),
   MF.chart({

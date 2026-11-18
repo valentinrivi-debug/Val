@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Lara · Fin de semaine</title></head>
+<body><div id="stage"></div>
+<script src="../common.js"></script>
+<script>
+// Voix (≈ 8,5 s) : « Et en fin de semaine, son bench le plus lourd : un single, puis cinq séries de deux.
+// Ça monte chaque semaine, jusqu'à 90 kilos sur le single en semaine 3. »
+const S = (h, v) => ({ h, hot: 1, v }), B = (h, v) => ({ h, v });
+const fns = [
+  MF.header("FIN DE SEMAINE", "SINGLE + 5×2", 1.2),
+  MF.text("SON BENCH LE PLUS LOURD", "tag", { left: "80px", top: "430px", fontSize: "34px" }, 1.5),
+  MF.legend([
+    { color: "#FFDE32", text: "single" },
+    { color: "#FAF4E6", text: "5 séries de 2" },
+  ], 80, 500, 2.4),
+  MF.chart({
+    base: 1180, hmax: 380, bw: 18, zoomAt: 7.6,
+    weeks: [
+      { k: "S1", s: "1 + 5×2", t: 3.4, groups: [[S(.84)],[B(.74),B(.74),B(.74),B(.74),B(.74)]] },
+      { k: "S2", s: "1 + 5×2", t: 4.3, groups: [[S(.87)],[B(.77),B(.77),B(.77),B(.77),B(.77)]] },
+      { k: "S3", s: "1 + 5×2", t: 5.6, groups: [[S(.90,"90")],[B(.80,"82,5"),B(.80),B(.80),B(.80),B(.80)]] },
+      { k: "S4", s: "", t: 6.8, groups: [], empty: "COMPÈTE", emptySize: 34 },
+    ],
+  }),
+];
+MF.run(fns);
+</script></body></html>

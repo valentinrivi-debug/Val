@@ -67,9 +67,11 @@ Sources de formation (14 PDF) : `content/ressources/`.
 - **Motion design** : je fais les animations ici (HTML animé → MP4 1080x1920 via
   Playwright + ffmpeg) : `node content/motion/render.js <page.html> <sortie.mp4> <durée>`.
   Polices Anton + Inter dans `content/motion/fonts/`. Style : fond #0D0D0D, jaune #FFDE32,
-  blanc cassé #FAF4E6, tiers bas laissé libre pour Val (green screen). Premier essai :
-  Lara spoto press (`content/motion/lara/`), en attente de retour avant de faire les
-  autres séances.
+  blanc cassé #FAF4E6, tiers bas laissé libre pour Val (green screen). Kit partagé
+  `content/motion/common.js` (en-tête, graphique semaine par semaine, légende, textes).
+  Fait : Lara, 7 séquences (`content/motion/lara/`, voix calée dans `script-voix.md`),
+  format validé par Val. Règle : chaque chose visible à l'écran doit être dite à l'oral
+  (Val a fait ajouter "la charge monte chaque semaine").
 - **Vidéos dans Drive** : beaucoup de IMG_xxxx.mov sans nom, toutes > 10 Mo, donc
   impossibles à ouvrir ici ; le dossier Drive CHRISTOPHE ne contient que des tableurs.
 - **Graphiques/schémas** : publiés en Artifact (lien), palette dataviz validée, sobres,

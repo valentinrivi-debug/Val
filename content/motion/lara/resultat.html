@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Lara · Résultat</title></head>
+<body><div id="stage"></div>
+<script src="../common.js"></script>
+<script>
+// Voix (≈ 8 s) : « Résultat : 95 kilos, deux kilos et demi au-dessus du minima Europe. Prochaine étape :
+// les championnats de France. Et l'objectif, c'est de se rapprocher des 100. »
+const fns = [
+  MF.text("RÉSULTAT", "lbl", { left: "80px", top: "140px" }, 0),
+  MF.text("95 KG", "big", { left: "80px", top: "200px", fontSize: "300px", color: "var(--y)" }, .2),
+  MF.text("MINIMA EUROPE : 92,5 KG", "txt", { left: "80px", top: "520px", color: "var(--g)" }, 1.4),
+  MF.text("+ 2,5 KG", "big", { left: "80px", top: "575px", fontSize: "110px", color: "var(--c)" }, 1.8),
+  MF.text("PROCHAINE ÉTAPE", "tag", { left: "80px", top: "760px", fontSize: "30px", color: "var(--g)" }, 3.4),
+  MF.text("CHAMPIONNATS DE FRANCE", "big", { left: "80px", top: "800px", fontSize: "92px", color: "var(--c)" }, 3.6),
+  MF.text("OBJECTIF", "tag", { left: "80px", top: "960px", fontSize: "30px", color: "var(--g)" }, 5.4),
+];
+// Jauge 80 → 100 kg, remplie jusqu'à 95.
+const L = 80, R = 1000, Y = 1040;
+const track = MF.el("", "", { left: L + "px", top: Y + "px", width: (R - L) + "px", height: "26px", background: "#2A2A2A", borderRadius: "13px" });
+const fill = MF.el("", "", { left: L + "px", top: Y + "px", width: "0px", height: "26px", background: "var(--y)", borderRadius: "13px" });
+const goal = MF.el("", "", { left: (R - 4) + "px", top: (Y - 18) + "px", width: "4px", height: "62px", background: "var(--c)" });
+const l80 = MF.el("tag", "80", { left: L + "px", top: (Y + 46) + "px", color: "var(--g)", fontSize: "30px" });
+const l95 = MF.el("tag", "95", { left: (L + (R - L) * .75 - 20) + "px", top: (Y + 46) + "px", color: "var(--y)", fontSize: "30px" });
+const l100 = MF.el("tag", "100 ?", { left: "auto", right: (1080 - R - 4) + "px", top: (Y + 46) + "px", color: "var(--c)", fontSize: "30px" });
+fns.push(t => {
+  const a = MF.easeOut(MF.prog(t, 5.6, .3));
+  [track, goal, l80, l100].forEach(e => e.style.opacity = a);
+  const f = MF.easeInOut(MF.prog(t, 5.9, 1.0));
+  fill.style.opacity = a; fill.style.width = (R - L) * .75 * f + "px";
+  l95.style.opacity = MF.easeOut(MF.prog(t, 6.8, .3));
+});
+MF.run(fns);
+</script></body></html>

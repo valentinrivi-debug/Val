@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Lara · Jeudi</title></head>
+<body><div id="stage"></div>
+<script src="../common.js"></script>
+<script>
+// Voix (≈ 11,5 s) : « Le jeudi, pause de trois secondes, puis Larsen, les jambes en l'air. Sans ses jambes
+// pour la stabiliser, elle doit tenir sa cage haute toute seule. Les charges montent très doucement :
+// cette séance ne doit jamais la limiter, elle prépare la suivante. »
+const C = { h: 0 }, L = (h, v) => ({ h, grey: 1, v }), P = (h, v) => ({ h, v });
+const fns = [
+  MF.header("JEUDI", "3CT + LARSEN", 1.2),
+  MF.legend([
+    { color: "#FAF4E6", text: "3CT · pause 3 secondes" },
+    { color: "#5C5C5C", text: "LARSEN · jambes en l'air" },
+  ], 80, 430, 1.4),
+  MF.text("OBJECTIF : CAGE HAUTE, SANS LEG DRIVE", "tag", { left: "80px", top: "580px", fontSize: "32px" }, 4.0),
+  MF.chart({
+    base: 1180, hmax: 380, zoomAt: 10.6,
+    weeks: [
+      { k: "S1", s: "3×1 + 2×3", t: 7.0, groups: [[P(.66),P(.66),P(.66)],[L(.52),L(.52)]] },
+      { k: "S2", s: "3×1 + 2×3", t: 7.8, groups: [[P(.68),P(.68),P(.68)],[L(.54),L(.54)]] },
+      { k: "S3", s: "2×1 + 2×3", t: 8.6, groups: [[P(.70,"83"),P(.70)],[L(.56),L(.56)]] },
+      { k: "S4", s: "1×1 + 2×3", t: 9.4, groups: [[P(.655,"77,5")],[L(.53,"70"),L(.53)]] },
+    ],
+  }),
+  MF.text("CHARGE JAMAIS LIMITANTE", "tag", { left: "200px", top: "690px", fontSize: "30px", color: "var(--c)" }, 8.0),
+  MF.text("→ PRÉPARE LA SÉANCE SUIVANTE", "tag", { left: "1000px", top: "740px", fontSize: "30px" }, 10.3, null, "right"),
+];
+MF.run(fns);
+</script></body></html>

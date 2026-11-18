@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>Lara · Mercredi</title></head>
+<body><div id="stage"></div>
+<script src="../common.js"></script>
+<script>
+// Voix (≈ 8 s) : « Le mercredi, bench de compétition, quatre séries de quatre. Une seule consigne :
+// une pause irréprochable sur chaque rep. Et on ajoute un peu de charge chaque semaine. »
+const fns = [
+  MF.header("MERCREDI", "BENCH COMPÉT", 1.2),
+  MF.text("CONSIGNE", "tag", { left: "80px", top: "430px", fontSize: "30px", color: "var(--g)" }, 2.0),
+  MF.text("PAUSE IRRÉPROCHABLE", "big", { left: "80px", top: "470px", fontSize: "96px", color: "var(--y)" }, 2.2),
+  MF.text("SUR CHAQUE REP", "txt", { left: "80px", top: "580px", color: "var(--c)" }, 2.6),
+  MF.chart({
+    base: 1180, hmax: 380, zoomAt: 7.2,
+    weeks: [
+      { k: "S1", s: "4×4", t: 4.0, groups: [[{h:.62},{h:.62},{h:.62},{h:.62}]] },
+      { k: "S2", s: "4×4", t: 4.9, groups: [[{h:.68},{h:.68},{h:.68},{h:.68}]] },
+      { k: "S3", s: "4×4", t: 5.8, groups: [[{h:.74},{h:.74},{h:.74},{h:.74}]] },
+      { k: "S4", s: "3×4", t: 6.7, groups: [[{h:.72},{h:.72},{h:.72}]] },
+    ],
+  }),
+  MF.text("+ CHARGE CHAQUE SEMAINE ↗", "tag", { left: "200px", top: "690px", fontSize: "30px", color: "var(--c)" }, 5.9),
+  MF.text("− 1 SÉRIE", "tag", { left: "1000px", top: "860px", fontSize: "28px" }, 7.0, null, "right"),
+];
+MF.run(fns);
+</script></body></html>

@@ -64,6 +64,12 @@ Sources de formation (14 PDF) : `content/ressources/`.
   l'environnement (upload = create-upload-url + POST des octets ; export PNG transparent
   possible ; pour isoler une personne : remove-background puis masque polygonal local
   avec ImageMagick).
+- **Motion design** : je fais les animations ici (HTML animé → MP4 1080x1920 via
+  Playwright + ffmpeg) : `node content/motion/render.js <page.html> <sortie.mp4> <durée>`.
+  Polices Anton + Inter dans `content/motion/fonts/`. Style : fond #0D0D0D, jaune #FFDE32,
+  blanc cassé #FAF4E6, tiers bas laissé libre pour Val (green screen). Premier essai :
+  Lara spoto press (`content/motion/lara/`), en attente de retour avant de faire les
+  autres séances.
 - **Vidéos dans Drive** : beaucoup de IMG_xxxx.mov sans nom, toutes > 10 Mo, donc
   impossibles à ouvrir ici ; le dossier Drive CHRISTOPHE ne contient que des tableurs.
 - **Graphiques/schémas** : publiés en Artifact (lien), palette dataviz validée, sobres,

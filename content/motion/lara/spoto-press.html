@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Lara · Spoto press</title>
+<style>
+  @font-face { font-family: "Anton"; src: url("../fonts/anton-latin-400-normal.woff2") format("woff2"); }
+  @font-face { font-family: "InterM"; src: url("../fonts/inter-latin-500-normal.woff2") format("woff2"); }
+  @font-face { font-family: "InterB"; src: url("../fonts/inter-latin-700-normal.woff2") format("woff2"); }
+  :root { --bg:#0D0D0D; --y:#FFDE32; --c:#FAF4E6; --g:#8A8A8A; }
+  html, body { margin:0; padding:0; background:var(--bg); }
+  #stage { position:relative; width:1080px; height:1920px; overflow:hidden; background:var(--bg); }
+  #grain { position:absolute; inset:0; opacity:.05; }
+  .abs { position:absolute; }
+  #label { left:80px; top:140px; font:40px InterB; color:var(--y); letter-spacing:6px; }
+  #title { left:80px; top:195px; font:150px/1 Anton; color:var(--c); transform-origin:0 0; letter-spacing:2px; }
+  #schema { left:0; top:0; width:1080px; height:1920px; transform-origin:540px 700px; }
+  #chart { left:0; top:0; width:1080px; height:1920px; transform-origin:560px 950px; }
+  .wk { font:40px InterB; color:var(--c); text-align:center; width:200px; }
+  .sch { font:34px InterM; color:var(--g); text-align:center; width:200px; }
+  .tag { font:28px InterB; color:var(--y); letter-spacing:2px; white-space:nowrap; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <svg id="grain" width="1080" height="1920"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="4"/></filter><rect width="1080" height="1920" filter="url(#n)"/></svg>
+
+  <div id="label" class="abs">LUNDI</div>
+  <div id="title" class="abs">SPOTO PRESS</div>
+
+  <!-- Schéma : poitrine + barre + chrono -->
+  <svg id="schema" class="abs" viewBox="0 0 1080 1920">
+    <line x1="250" y1="780" x2="830" y2="780" stroke="#FAF4E6" stroke-width="6" stroke-linecap="round"/>
+    <text x="830" y="822" text-anchor="end" font-family="InterM" font-size="30" fill="#8A8A8A">poitrine</text>
+    <g id="bar">
+      <line x1="200" y1="0" x2="880" y2="0" stroke="#FAF4E6" stroke-width="16" stroke-linecap="round"/>
+      <rect x="170" y="-75" width="44" height="150" rx="10" fill="#FAF4E6"/>
+      <rect x="866" y="-75" width="44" height="150" rx="10" fill="#FAF4E6"/>
+    </g>
+    <g id="gap">
+      <line x1="540" y1="722" x2="540" y2="770" stroke="#FFDE32" stroke-width="5"/>
+      <line x1="520" y1="722" x2="560" y2="722" stroke="#FFDE32" stroke-width="5"/>
+      <line x1="520" y1="770" x2="560" y2="770" stroke="#FFDE32" stroke-width="5"/>
+      <line x1="540" y1="790" x2="540" y2="840" stroke="#FFDE32" stroke-width="3"/><text x="540" y="885" text-anchor="middle" font-family="InterB" font-size="36" fill="#FFDE32" letter-spacing="2">PAS DE CONTACT</text>
+    </g>
+    <g id="chrono" transform="translate(540 520)">
+      <circle r="78" fill="none" stroke="#2A2A2A" stroke-width="12"/>
+      <circle id="ring" r="78" fill="none" stroke="#FFDE32" stroke-width="12" stroke-linecap="round" transform="rotate(-90)" stroke-dasharray="490.1" stroke-dashoffset="490.1"/>
+      <text y="18" text-anchor="middle" font-family="Anton" font-size="56" fill="#FFDE32">2 S</text>
+    </g>
+  </svg>
+
+  <!-- Graphique de progression -->
+  <div id="chart" class="abs"></div>
+</div>
+
+<script>
+const W = 1080, BASE = 1130, HMAX = 420;
+const weeks = [
+  { k:"S1", s:"5×2",       t:5.5, x:270, sets:[[.60,0],[.60,0],[.60,0],[.60,0],[.60,0]] },
+  { k:"S2", s:"5×2",       t:6.7, x:470, sets:[[.66,0],[.66,0],[.66,0],[.66,0],[.66,0]] },
+  { k:"S3", s:"2×2 + 3×2", t:7.9, x:670, sets:[[.82,1],[.82,1],[.72,0],[.72,0],[.72,0]], split:2 },
+  { k:"S4", s:"1×2 + 3×2", t:9.1, x:870, sets:[[.84,1],[.74,0],[.74,0],[.74,0]], split:1 },
+];
+const chart = document.getElementById("chart");
+// axe intensité
+chart.insertAdjacentHTML("beforeend",
+  `<svg id="axis" class="abs" width="1080" height="1920" style="left:0;top:0">
+     <line x1="120" y1="${BASE}" x2="120" y2="${BASE-HMAX-40}" stroke="#8A8A8A" stroke-width="3"/>
+     <polygon points="120,${BASE-HMAX-60} 108,${BASE-HMAX-36} 132,${BASE-HMAX-36}" fill="#8A8A8A"/>
+     <line x1="120" y1="${BASE}" x2="990" y2="${BASE}" stroke="#2E2E2E" stroke-width="3"/>
+     <text transform="translate(98 ${BASE-120}) rotate(-90)" font-family="InterB" font-size="28" fill="#8A8A8A" letter-spacing="4">INTENSITÉ</text>
+   </svg>`);
+const BW = 22, GAP = 10, SPLIT = 22;
+weeks.forEach((w, wi) => {
+  const n = w.sets.length;
+  const total = n*BW + (n-1)*GAP + (w.split ? SPLIT-GAP : 0);
+  let x = w.x - total/2;
+  w.bars = w.sets.map(([h, hot], i) => {
+    if (w.split && i === w.split) x += SPLIT - GAP;
+    const el = document.createElement("div");
+    el.className = "abs";
+    Object.assign(el.style, { left:x+"px", width:BW+"px", top:(BASE - h*HMAX)+"px", height:(h*HMAX)+"px",
+      background: hot ? "var(--y)" : "var(--c)", borderRadius:"4px 4px 0 0", transformOrigin:"50% 100%" });
+    chart.appendChild(el); x += BW + GAP; return el;
+  });
+  const k = document.createElement("div"); k.className = "abs wk"; k.textContent = w.k;
+  Object.assign(k.style, { left:(w.x-100)+"px", top:(BASE+18)+"px" }); chart.appendChild(k); w.kEl = k;
+  const s = document.createElement("div"); s.className = "abs sch"; s.textContent = w.s;
+  Object.assign(s.style, { left:(w.x-100)+"px", top:(BASE+70)+"px" }); chart.appendChild(s); w.sEl = s;
+});
+function tag(text, left, top, color, size, align) {
+  const e = document.createElement("div"); e.className = "abs tag"; e.textContent = text;
+  Object.assign(e.style, { left:left+"px", top:top+"px", color, fontSize:size+"px" });
+  if (align === "right") { e.style.left = "auto"; e.style.right = (W-left)+"px"; }
+  chart.appendChild(e); return e;
+}
+const tagHeavy = tag("SÉRIES LOURDES", 670-118, BASE - .82*HMAX - 52, "var(--y)", 28);
+const tagComp  = tag("SEMAINE DE COMPÈTE", 1000, BASE + 118, "var(--y)", 26, "right");
+const tagTaper = tag("− DE SÉRIES, MÊME INTENSITÉ", 1000, BASE - .84*HMAX - 140, "var(--c)", 30, "right");
+
+// --- helpers
+const clamp = (v,a=0,b=1) => Math.min(b, Math.max(a, v));
+const prog = (t, a, d) => clamp((t - a) / d);
+const easeOut = p => 1 - Math.pow(1 - p, 3);
+const easeInOut = p => p < .5 ? 4*p*p*p : 1 - Math.pow(-2*p + 2, 3)/2;
+const $ = id => document.getElementById(id);
+
+window.render = function (t) {
+  // titre
+  const pl = easeOut(prog(t, 0, .4));
+  $("label").style.opacity = pl; $("label").style.transform = `translateX(${(1-pl)*-60}px)`;
+  const pt = easeOut(prog(t, .15, .45));
+  const shrink = easeInOut(prog(t, 1.5, .4));
+  $("title").style.opacity = pt;
+  $("title").style.transform = `translateY(${(1-pt)*40}px) scale(${1 - .4*shrink})`;
+
+  // schéma
+  const schemaIn = easeOut(prog(t, 1.4, .3));
+  const down = easeOut(prog(t, 1.5, 1.0));        // 1,5 → 2,5 s : descente
+  const up = easeInOut(prog(t, 4.5, .5));          // 4,5 → 5,0 s : remontée
+  const barY = 380 + 330*down - 160*up;            // arrêt à 710 (70 px au-dessus de la poitrine)
+  $("bar").setAttribute("transform", `translate(0 ${barY})`);
+  const pause = prog(t, 2.5, 2.0);                 // 2,5 → 4,5 s : chrono 2 s
+  $("ring").setAttribute("stroke-dashoffset", 490.1*(1 - pause));
+  const chronoVis = easeOut(prog(t, 2.4, .25)) * (1 - prog(t, 4.6, .3));
+  $("chrono").style.opacity = chronoVis;
+  const gapVis = easeOut(prog(t, 2.7, .3)) * (1 - prog(t, 4.6, .3));
+  $("gap").style.opacity = gapVis;
+  const out = easeInOut(prog(t, 5.0, .5));         // 5,0 → 5,5 s : réduction en haut à droite
+  $("schema").style.opacity = schemaIn * (1 - .35*out);
+  $("schema").style.transform = `translate(${250*out}px, ${-330*out}px) scale(${1 - .6*out})`;
+
+  // graphique
+  const axis = easeOut(prog(t, 5.3, .4));
+  $("axis").style.opacity = axis;
+  weeks.forEach(w => {
+    const lab = easeOut(prog(t, w.t, .3));
+    w.kEl.style.opacity = lab; w.sEl.style.opacity = lab;
+    w.kEl.style.transform = w.sEl.style.transform = `translateY(${(1-lab)*16}px)`;
+    w.bars.forEach((b, i) => {
+      const g = easeOut(prog(t, w.t + .1 + i*.08, .4));
+      b.style.transform = `scaleY(${g})`; b.style.opacity = g > 0 ? 1 : 0;
+    });
+  });
+  tagHeavy.style.opacity = easeOut(prog(t, 8.2, .3));
+  tagComp.style.opacity = easeOut(prog(t, 9.4, .3));
+  tagTaper.style.opacity = easeOut(prog(t, 9.5, .3));
+  const z = easeInOut(prog(t, 10, 1));
+  $("chart").style.transform = `scale(${1 + .03*z})`;
+};
+window.render(0);
+</script>
+</body>
+</html>

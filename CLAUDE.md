@@ -197,7 +197,7 @@ pas de stabilité de leg drive. Bloc de 3 semaines de pic + S4 taper (compète e
   absent en S4 (compète).
 Taper : on retire des séries mais on garde l'intensité, sinon elle se déconditionne.
 Script Yap green screen écrit le 18/11 (hook "4 BENCHS PAR SEMAINE. AUCUN N'A LE MÊME
-RÔLE."). Accord pour la nommer : à confirmer.
+RÔLE."). Accord pour la nommer : OK.
 
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de

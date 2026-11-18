@@ -183,6 +183,12 @@ son raisonnement après une séance difficile (grande maturité). Suite : début
 un schéma plus spécifique. Pas de chiffres précis. Preuves : vocaux. Val ne diffusera QUE les vocaux
 positifs (jamais ceux qui la mettraient en porte-à-faux) ; l'avant est raconté par Val.
 
+**Lara** : -57 kg open, compète le week-end du 14-15/11/2026 : 95 kg au bench validés,
+soit 2,5 kg au-dessus du minima Europe. Place aux championnats de France de bench
+décrochée ~2 mois avant. Objectif : se rapprocher des 100 kg aux France. Détail de sa
+semaine (variations, volume, intensité) : en attente de Val. Accord pour la nommer : à
+confirmer.
+
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de
 volume, de fréquence, d'intensité). Origine de sa philosophie santé + long terme.

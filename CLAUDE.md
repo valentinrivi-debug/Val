@@ -291,6 +291,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Thread tweet "syndrome de l'imposteur du lifteur intermédiaire" (écrit le 24/11, en
+  attente) : S1 "Trop fort pour te dire débutant. Pas assez pour te sentir légitime.",
+  chute "Tu n'as pas à mériter ta place sous la barre. Tu l'as déjà."
+
 - Couverture Canva "PERFORMANCES ATHLÈTES" (11/11) pour un carrousel des perfs de ses
   athlètes : https://canva.link/oc7kcib8waqmf1f — refaite avec la vraie photo de compète
   de Val (fond assombri, SEUL Val détouré par-dessus le titre = effet calque ; les autres

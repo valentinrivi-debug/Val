@@ -291,6 +291,11 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
 
 ## Déjà produit ou publié (ne pas refaire)
 
+- Thread tweet "la discipline, un mot trop utilisé" (écrit le 24/11, angle validé par Val) :
+  la discipline = conséquence d'un bon système (organisation, clarté, plaisir), pas une
+  vertu morale ni de la volonté pure ; mal comprise elle devient rigidité. Chute : "Être
+  discipliné, c'est s'organiser pour que les bons choix deviennent faciles."
+
 - Thread tweet "syndrome de l'imposteur du lifteur intermédiaire" (écrit le 24/11, en
   attente) : S1 "Trop fort pour te dire débutant. Pas assez pour te sentir légitime.",
   chute "Tu n'as pas à mériter ta place sous la barre. Tu l'as déjà."

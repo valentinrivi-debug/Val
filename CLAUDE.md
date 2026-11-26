@@ -210,6 +210,17 @@ RÔLE."). Accord pour la nommer : OK.
 **Val lui-même** : blessure au dos sur un deadlift (surcharge sacrum/lombaire), plus
 d'un an à un an et demi pour revenir, causée par une progression trop rapide (trop de
 volume, de fréquence, d'intensité). Origine de sa philosophie santé + long terme.
+- **Prépa ATHX (mai 2027, avec Julien et Émilien)** — point au 26/11/2026 : bloc 1 fini,
+  bloc 2 en cours. 85 kg (−9 kg depuis sa dernière compète de power), poids de forme visé
+  84-86 kg (sinon trop de force perdue). Run : de mieux en mieux, tolère des intensités
+  plus hautes ; galère encore sur le souffle, points de côté. Force : très en retrait au
+  bloc 1 (focus jeté / run / cardio) ; bloc 2 focus squat + deadlift → tout remonte ;
+  squat un peu moins fort en bas ; deadlift tradi repassé du full strap au crochet (hook) →
+  bien plus léger, très bonnes sensations. Métcon : avant trop vite / trop fort puis longues
+  récups ; maintenant rythme de croisière constant → moins de fatigue, séries moins cassées ;
+  sur les overhead il repasse par les épaules à chaque descente (épaules préservées) ;
+  rythme trouvé sur burpees et sandbag. Gêne à l'insertion du grand dorsal au jeté
+  (déficit de mobilité scapula droite), WOD CrossFit le lundi jusqu'à mi-décembre.
 
 ## Idées en réserve (pas encore produites)
 

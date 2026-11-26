@@ -239,6 +239,9 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   contre la barre même au contact, hook identique au record "3 niveaux, 1 seule technique
   efficace"). Le bench reprend le fond de la vidéo "tension bench" qui avait floppé sans
   pastille : bon test de la règle des pastilles.
+- **4 clones techniques écrits le 26/11, à tourner le 27/11** (`content/scripts/clones-technique-2026-11-26.md`) :
+  fesses qui montent au squat, trajectoire de barre au bench, verrouillage au deadlift,
+  respiration au squat (proche du sketch « gaine-toi » : les espacer à la publication).
 - **Clones non techniques** : **format discussion** à table, sans "ça ressemble à quoi"
   ni démo (la démo tombe à plat hors technique). Hook texte "3 niveaux…" gardé sans
   "(tuto fin de vidéo)", tension gardée par une dernière réplique qui fait sourire.

@@ -219,8 +219,10 @@ volume, de fréquence, d'intensité). Origine de sa philosophie santé + long te
   bien plus léger, très bonnes sensations. Métcon : avant trop vite / trop fort puis longues
   récups ; maintenant rythme de croisière constant → moins de fatigue, séries moins cassées ;
   sur les overhead il repasse par les épaules à chaque descente (épaules préservées) ;
-  rythme trouvé sur burpees et sandbag. Gêne à l'insertion du grand dorsal au jeté
-  (déficit de mobilité scapula droite), WOD CrossFit le lundi jusqu'à mi-décembre.
+  rythme trouvé sur burpees et sandbag. Jeté : insertion du grand dorsal encore très gênante,
+  overhead douloureux à chaque réception (déficit de mobilité scapula droite) ; prise
+  élargie + beaucoup d'exos spécifiques à l'échauffement → ça va mieux, mais volume et
+  intensité à doser finement sinon ça s'enflamme : c'est LE gros chantier de la prépa. WOD CrossFit le lundi jusqu'à mi-décembre.
 
 ## Idées en réserve (pas encore produites)
 

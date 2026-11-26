@@ -70,7 +70,9 @@ Sources de formation (14 PDF) : `content/ressources/`.
   blanc cassé #FAF4E6, tiers bas laissé libre pour Val (green screen). Kit partagé
   `content/motion/common.js` (en-tête, graphique semaine par semaine, légende, textes).
   Fait : Lara, 7 séquences (`content/motion/lara/`, voix calée dans `script-voix.md`),
-  format validé par Val. Règle : chaque chose visible à l'écran doit être dite à l'oral
+  format validé par Val. Kit montage ATHX bloc 2 (`content/motion/athx-bloc2/` : script validé,
+  14 incrustations PNG transparentes via `incrustation.html`, BRIEF_MONTAGE, zip) envoyé le 26/11.
+  Règle : chaque chose visible à l'écran doit être dite à l'oral
   (Val a fait ajouter "la charge monte chaque semaine").
 - **Vidéos dans Drive** : beaucoup de IMG_xxxx.mov sans nom, toutes > 10 Mo, donc
   impossibles à ouvrir ici ; le dossier Drive CHRISTOPHE ne contient que des tableurs.

@@ -2,7 +2,7 @@
 
 Hook texte (0 à 2,5 s) : J'AI PERDU 9 KG. VOILÀ CE QUE ÇA A CHANGÉ.
 
-1. INTRO (≈ 10 s) — incrustations : PRÉPA ATHX · BLOC 2, puis 94 → 85 KG (94 à confirmer)
+1. INTRO (≈ 10 s) — incrustations : PRÉPA ATHX · BLOC 2, puis 85 KG · −9 KG
 « Point sur ma prépa ATHX. Premier bloc terminé, je suis sur le deuxième. Je pèse 85 kilos, soit 9 de moins qu'à ma dernière compète de power. »
 
 2. RUN (≈ 10 s)

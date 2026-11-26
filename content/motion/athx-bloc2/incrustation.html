@@ -1,0 +1,20 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><style>
+@font-face{font-family:"Anton";src:url("../fonts/anton-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"InterB";src:url("../fonts/inter-latin-700-normal.woff2") format("woff2")}
+html,body{margin:0;background:transparent}
+#s{position:relative;width:1080px;height:1920px}
+#box{position:absolute;left:50%;transform:translateX(-50%);background:rgba(13,13,13,.78);border-radius:22px;padding:26px 44px;text-align:center;width:max-content;max-width:960px}
+.l1{font:var(--s1,92px)/1.02 Anton;color:#FAF4E6;letter-spacing:1px}
+.l2{font:var(--s2,92px)/1.02 Anton;color:#FAF4E6;letter-spacing:1px;margin-top:8px}
+.y{color:#FFDE32}
+.k{font:30px InterB;color:#FFDE32;letter-spacing:6px;margin-bottom:12px}
+</style></head><body><div id="s"><div id="box"></div></div>
+<script>
+const p=new URLSearchParams(location.search);
+const box=document.getElementById('box');
+box.style.top=(p.get('top')||'300')+'px';
+if(p.get('s1'))box.style.setProperty('--s1',p.get('s1')+'px');
+if(p.get('s2'))box.style.setProperty('--s2',p.get('s2')+'px');
+const fmt=t=>t.replace(/\*(.+?)\*/g,'<span class="y">$1</span>');
+box.innerHTML=(p.get('k')?`<div class="k">${p.get('k')}</div>`:'')+`<div class="l1">${fmt(p.get('l1')||'')}</div>`+(p.get('l2')?`<div class="l2">${fmt(p.get('l2'))}</div>`:'');
+</script></body></html>

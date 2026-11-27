@@ -9,11 +9,11 @@ Alternatives : TES FESSES MONTENT EN PREMIER ? REGARDE LE NIVEAU 3 / LE SQUAT SE
 Pastilles : 100 KG / 150 KG / 200 KG SQUAT
 - C1 : Les gars, j'en peux plus. À chaque remontée de squat, mes fesses partent en premier et je finis en good morning. C'est mon dos qui prend tout.
 - C2 : Moi, j'ai réglé ça en forçant pour garder le buste bien droit. Mais du coup, je reste planté en bas, la barre ralentit d'un coup.
-- C3 : T'es sur la bonne voie. Mais le problème, c'est pas ton buste. C'est ce que tu fais avec la barre quand tu sors du trou.
+- C3 : T'es sur la bonne voie. Mais le problème, c'est pas ton buste. C'est ce qui se passe quand tu sors du trou.
 - C1 : Ça ressemble à quoi ?
 - C3 : Ça ressemble à ça.
-Tuto : Si tes fesses montent en premier, tes jambes poussent mais ton buste ne suit pas. La barre part devant, et c'est ton dos qui finit le travail. Forcer pour rester droit, ça ne règle rien : tu perds juste ta vitesse. Là, en sortant du trou, je pousse le haut de mon dos contre la barre. Mes hanches et mes épaules montent en même temps. Et la barre reste au-dessus du milieu de mon pied.
-Incrustations : FESSES EN PREMIER = GOOD MORNING · POUSSE TON DOS CONTRE LA BARRE · HANCHES + ÉPAULES ENSEMBLE
+Tuto : Si tes fesses montent en premier, c'est que tes genoux reculent dès le début de la poussée. Ton buste bascule, la barre t'emporte vers l'avant, et c'est ton dos qui finit le travail. Là, en sortant du trou, je résiste contre la barre : je pousse le haut de mon dos dedans pour qu'elle ne m'emmène pas vers l'avant. Et je garde mes genoux devant. Je lutte pour qu'ils ne reculent pas. Résultat : mes hanches et mes épaules montent ensemble.
+Incrustations : FESSES EN PREMIER = GOOD MORNING · RÉSISTE CONTRE LA BARRE · GENOUX DEVANT, ILS NE RECULENT PAS
 
 ## 2. Bench — la trajectoire de barre
 Hook texte : 3 NIVEAUX, 1 SEULE TRAJECTOIRE EFFICACE (TUTO FIN DE VIDÉO)

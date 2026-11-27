@@ -50,3 +50,15 @@ Pastilles : 100 KG / 150 KG / 200 KG SQUAT
 - C3 : Ça ressemble à ça.
 Tuto : Si tu souffles en descendant, tu perds ta pression au moment où tu en as le plus besoin : en bas. Si tu remplis ta poitrine, tes épaules montent et ton ventre reste vide. Là, avant de descendre, j'inspire dans le ventre et je le gonfle tout autour : devant, sur les côtés, et dans le bas du dos. Je bloque. Je descends et je remonte sans relâcher. Je ne souffle qu'une fois en haut.
 Incrustations : SOUFFLER EN DESCENDANT = PERTE DE PRESSION · VENTRE GONFLÉ À 360° · BLOQUE JUSQU'EN HAUT
+
+## 5. Bench — la prise trop serrée (écrit le 27/11)
+Hook texte : 3 NIVEAUX, 1 SEULE PRISE EFFICACE (TUTO FIN DE VIDÉO)
+Alternatives : TA PRISE TE FAIT PERDRE DES KILOS / TOUT SE JOUE AVANT DE TOUCHER LA BARRE
+Pastilles : 70 KG / 100 KG / 140 KG BENCH
+- C1 : Les gars, je comprends pas. Je prends la barre bien serrée, coudes collés au corps, comme on m'a appris. Et à chaque rep, je reste scotché en bas de la poitrine.
+- C2 : Moi, j'ai écarté ma prise. Ça décolle mieux. Mais maintenant, c'est mes épaules qui prennent tout.
+- C3 : Écarter, c'est la bonne idée. Mais t'as oublié de régler un truc avant même de toucher la barre.
+- C1 : Ça ressemble à quoi ?
+- C3 : Ça ressemble à ça.
+Tuto : Avec une prise trop serrée, tes coudes restent collés au corps. Pour pousser fort, ils doivent revenir dans l'alignement de tes épaules, et ça leur fait un énorme trajet. Si tu écartes ta prise sans placer tes épaules, ce sont elles qui encaissent. Alors avant tout, je place mes épaules : je les tire vers le bas, loin des oreilles. Ensuite, j'écarte un peu ma prise. Et quand je descends, mes coudes descendent légèrement ouverts. Moins de trajet, plus de force.
+Incrustations : PRISE SERRÉE = TRAJET TROP LONG · 1. ÉPAULES BASSES, LOIN DES OREILLES · 2. PRISE UN PEU PLUS LARGE · 3. COUDES QUI DESCENDENT, LÉGÈREMENT OUVERTS

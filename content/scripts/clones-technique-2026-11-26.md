@@ -20,12 +20,12 @@ Hook texte : 3 NIVEAUX, 1 SEULE TRAJECTOIRE EFFICACE (TUTO FIN DE VIDÉO)
 Alternatives : TA BARRE NE DOIT PAS MONTER TOUT DROIT / BLOQUÉ À MI-COURSE ? REGARDE LE NIVEAU 3
 Pastilles : 70 KG / 100 KG / 140 KG BENCH
 - C1 : Franchement, je comprends pas. Je pousse la barre tout droit vers le plafond, et elle part toujours vers mes pieds. Je bloque à mi-course à chaque fois.
-- C2 : Moi, on m'a dit de ramener la barre vers mes yeux. Alors je le fais dès que je quitte la poitrine. Mais j'ai l'impression de pousser deux fois.
-- C3 : Vous avez chacun la moitié de la réponse. Ce qui compte, c'est où tu pousses, et à quel moment.
+- C2 : Moi, on m'a dit de pousser vers l'arrière. Alors je pousse vers le rack. Mais la barre part vers ma gorge, et je sais jamais où elle va finir.
+- C3 : Pousser vers l'arrière, c'est la bonne idée. Mais tu oublies ce que font tes coudes pendant que tu pousses.
 - C1 : Ça ressemble à quoi ?
 - C3 : Ça ressemble à ça.
-Tuto : La barre ne monte pas en ligne droite. En bas, elle touche le bas de tes pecs. En haut, elle doit finir au-dessus de tes épaules. Si tu pousses vers le plafond, elle reste trop bas et tu bloques à mi-course. Si tu la ramènes trop tôt, tu casses ta poussée. Là, je pousse d'abord vers le haut, puis la barre revient progressivement vers le rack. Elle fait un léger arc, et elle finit au-dessus de mes épaules.
-Incrustations : BAS DES PECS → AU-DESSUS DES ÉPAULES · POUSSE VERS LE RACK · UN LÉGER ARC, PAS UNE LIGNE DROITE
+Tuto : La barre ne monte pas en ligne droite. En bas, elle touche le bas de tes pecs. En haut, elle doit finir au-dessus de tes épaules. Si tu pousses vers le plafond, elle reste trop bas et tu bloques à mi-course. Si tu pousses vers l'arrière en gardant les coudes rentrés, tu te l'envoies dans la gorge. Là, je pousse vers l'arrière, et en même temps, j'ouvre mes coudes. La barre fait un léger arc, et elle finit pile au-dessus de mes épaules.
+Incrustations : BAS DES PECS → AU-DESSUS DES ÉPAULES · COUDES RENTRÉS = BARRE DANS LA GORGE · POUSSE VERS L'ARRIÈRE + OUVRE LES COUDES
 
 ## 3. Deadlift — le verrouillage
 Hook texte : 3 NIVEAUX, 1 SEUL VERROUILLAGE EFFICACE (TUTO FIN DE VIDÉO)
